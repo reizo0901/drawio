@@ -1,0 +1,884 @@
+#コマンドラインパラメータ格納
+param ( [string] $inrang, [string] $indate, [string] $inweek)
+#ログファイル名のために現在の日時を取得
+$logdate = Get-Date -Format "yyyyMMdd_HHmmss"
+
+################################################################################
+#定数定義
+################################################################################
+#契約情報一覧フォルダ指定　※フォルダ名の末尾に/を入れないでください。
+new-variable -name contract_folder -value 'C:\test' -option constant
+#契約情報一覧ファイル名 ※ファイル名を指定しない場合は、最新の名前が付与されたファイルを選択する。
+new-variable -name contract_file -value '20210131_23_JPGC-CC0003_契約情報一覧.csv' -option constant
+#new-variable -name contract_file -value '' -option constant
+#インプット元フォルダ指定　※フォルダ名の末尾に/を入れないでください。
+new-variable -name input_folder -value 'C:\test' -option constant
+#インプットファイル名先頭文字列 ※インプットファイルの名称ルールが変わった場合は修正する。
+new-variable -name input_filename_header401 -value 'HP0401_Middle_File_' -option constant
+new-variable -name input_filename_header402 -value 'HP0402_Middle_File_' -option constant
+#アウトプット先フォルダ指定　※フォルダ名の末尾に/を入れないでください。
+new-variable -name output_folder -value 'C:\test\output' -option constant
+#ログ出力先フォルダ指定　※フォルダ名の末尾に/を入れないでください。
+new-variable -name log_folder -value 'C:\test\log' -option constant
+#ログファイル名　※変更しないでください。
+new-variable -name log_filename -value ('MakeReportResult_' + $logdate + '.log') -option constant
+#ログファイルフルパス　※変更しないでください。
+new-variable -name log_filepath -value ($log_folder + '\' + 'MakeReportResult_' + $logdate + '.log') -option constant
+
+#ログ種別を小文字に変換
+$inrang = $inrang.tolower()
+
+################################################################################
+#フォルダ/ファイル存在チェック
+################################################################################
+function CheckFolder()
+{
+    $logsta = 0
+    #戻り値を初期化
+    $errflg = [int]0
+    #ログ格納先フォルダチェック
+    if ((test-path $log_folder) -eq "True"){
+        $logsta = 1
+        #msg出力
+        write-host 'ログ格納先フォルダOK'
+        write-host 'ログファイル名['$log_filename']'
+        WriteResultLog '[Info],ログ格納先フォルダOK'
+    }else{
+        #msg出力
+        write-host 'ログ格納先フォルダが存在しません。'
+        $errflg = 1
+    }
+    #契約情報一覧格納元フォルダチェック
+    if ((test-path $contract_folder) -eq "True"){
+        write-host '契約情報一覧格納先フォルダOK'
+        #msg出力
+        if($logsta -eq 1){WriteResultLog '[Info],契約情報一覧格納先フォルダOK'}
+        #契約情報一覧ファイル取得
+        $colist = Get-childitem $contract_folder -Recurse -File -Include *JPGC-CC0003_契約情報一覧.csv | Sort-Object Name;
+        #契約情報一覧ファイルの存在確認し、後続処理でのエラーを回避する。
+        if ($colist.count -eq 0){
+            #msg出力
+            write-host '契約情報一覧ファイルが存在しません。'
+            if($logsta -eq 1){WriteResultLog ('[Err ],契約情報一覧ファイルが存在しません。[' + $contract_folder + ']')}
+            $errflg = 1
+        }else{
+            #msg出力
+            write-host '契約情報一覧ファイルOK'
+            if($logsta -eq 1){WriteResultLog '[Info],契約情報一覧ファイルOK'}
+        }
+    }else{
+        #msg出力
+        write-host '契約情報一覧格納先フォルダが存在しません。'
+        if($logsta -eq 1){WriteResultLog ('[Err ],契約情報一覧格納先フォルダが存在しません。[' + $contract_folder + ']')}
+        $errflg = 1
+    }
+    if ((test-path $input_folder) -eq "True"){
+        #msg出力
+        write-host 'インプットファイル格納フォルダOK'
+        if($logsta -eq 1){WriteResultLog '[Info],インプットファイル格納フォルダOK'}
+    }else{
+        #msg出力
+        write-host 'インプットファイル格納フォルダが存在しません。'
+        if($logsta -eq 1){WriteResultLog ('[Err ],インプットファイル格納フォルダが存在しません。[' + $input_folder + ']')}
+        $errflg = 1
+    }
+    if ((test-path $output_folder) -eq "True"){
+        #msg出力
+        write-host 'アウトプットファイル格納フォルダOK'
+        if($logsta -eq 1){WriteResultLog '[Info],アウトプットファイル格納フォルダOK'}
+    }else{
+        #msg出力
+        write-host 'アウトプットファイル格納フォルダが存在しません。'
+        if($logsta -eq 1){WriteResultLog ('[Err ],アウトプットファイル格納フォルダが存在しません。[' + $output_folder + ']')}
+        $errflg = 1
+    }
+    if($errflg -eq 0){
+        return $False
+    }else{
+        return $True
+    } 
+}
+
+################################################################################
+#パラメータチェック処理
+################################################################################
+function CheckParameter($para01,$para02,$para03)
+{
+    $errflg = 0
+    #ログ種別チェック
+    if ($para01 -in @('d', 'w', 'm')){
+        #msg出力
+        write-host 'パラメータ１:チェックOK'
+        WriteResultLog ('[Info],パラメータ１：チェックOK[' + $para01 + ']')
+        #日次パラメータチェック
+        if($para01 -eq 'd'){
+            #数字のみの入力かチェック
+            if(IsNumeric $para02){
+                #指定桁数かチェック
+                if($para02.length -eq 8){
+                    #存在する日付かチェック
+                    if(isdate(StringToDateString($para02) 0)){
+                        #msg出力
+                        write-host 'パラメータ２:日付チェックOK'
+                        WriteResultLog ('[Info],パラメータ２:日付チェックOK[' + $para02 + ']')
+
+                    }else{
+                        #msg出力
+                        write-host "パラメータ２:存在しない日付が入力されています。"
+                        WriteResultLog ('[Err ],パラメータ２:存在しない日付が入力されています。[' + $para02 + ']')
+                        $errflg = 1
+                    }
+                }else{
+                    #msg出力
+                    write-host 'パラメータ２:日付の桁数が間違っています。'
+                    WriteResultLog ('[Err ],パラメータ２:日付の桁数が間違っています。[' + $para02 + ']')
+                    $errflg = 1
+                }
+            }else{
+                #msg出力
+                write-host 'パラメータ２:日付の指定が間違っています。'
+                WriteResultLog ('[Err ],パラメータ２:日付の指定が間違っています。[' + $para02 + ']')
+                $errflg = 1
+            }
+        }
+        #週次パラメータチェック
+        if($para01 -eq 'w'){
+            #数字のみの入力かチェック
+            if(IsNumeric $para02){
+                #指定桁数かチェック
+                if($para02.length -eq 8){
+                    #存在する日付かチェック
+                    if(isdate(StringToDateString($para02) 0)){
+                        #msg出力
+                        write-host 'パラメータ２:日付チェックOK'
+                        WriteResultLog ('[Info],パラメータ２:日付チェックOK[' + $para02 + ']')
+                    }else{
+                        #msg出力
+                        write-host "パラメータ２:存在しない日付が入力されています。"
+                        WriteResultLog ('[Err ],パラメータ２:存在しない日付が入力されています。[' + $para02 + ']')
+                        $errflg = 1
+                    }
+                }else{
+                    #msg出力
+                    write-host 'パラメータ２:日付の桁数が間違っています。'
+                    WriteResultLog ('[Err ],パラメータ２:日付の桁数が間違っています。[' + $para02 + ']')
+                    $errflg = 1
+                }
+            }else{
+                #msg出力
+                write-host 'パラメータ２:日付の指定が間違っています。'
+                WriteResultLog ('[Err ],パラメータ２:日付の指定が間違っています。[' + $para02 + ']')
+                $errflg = 1
+            }
+            #数字のみかチェック
+            if(IsNumeric $para03){
+                #指定桁数かチェック
+                if($para03.length -eq 8){
+                    #存在する日付かチェック
+                    if(isdate(StringToDateString($para03) 0)){
+                        #msg出力
+                        write-host 'パラメータ３:日付チェックOK'
+                        WriteResultLog ('[Info],パラメータ３:日付チェックOK[' + $para03 + ']')
+                    }else{
+                        #msg出力
+                        write-host "パラメータ３:存在しない日付が入力されています。"
+                        WriteResultLog ('[Err ],パラメータ３:存在しない日付が入力されています。[' + $para03 + ']')
+                        $errflg = 1
+                    }
+                }else{
+                    #msg出力
+                    write-host 'パラメータ３:日付の桁数が間違っています。'
+                    WriteResultLog ('[Err ],パラメータ３:日付の桁数が間違っています。[' + $para03 + ']')
+                    $errflg = 1
+                }
+            }else{
+                #msg出力
+                write-host 'パラメータ3:日付の指定が間違っています。'
+                WriteResultLog ('[Err ],パラメータ３:日付の指定が間違っています。[' + $para03 + ']')
+                $errflg = 1
+            }
+        }
+        #月次パラメータチェック
+        if($para01 -eq 'm'){
+            #数字のみかチェック
+            if(IsNumeric $para02){
+                #指定桁数かチェック
+                if($para02.length -eq 6){
+                    #存在する日付かチェック
+                    if(isdate(StringToDateString($para02) 0)){
+                        #msg出力
+                        write-host 'パラメータ２:日付チェックOK'
+                        WriteResultLog ('[Info],パラメータ２:日付チェックOK[' + $para02 + ']')
+                    }else{
+                        #msg出力
+                        write-host "パラメータ２:存在しない日付が入力されています。"
+                        WriteResultLog ('[Err ],パラメータ２:存在しない日付が入力されています。[' + $para02 + ']')
+                        $errflg = 1
+                    }
+                }else{
+                    #msg出力
+                    write-host 'パラメータ２:日付の桁数が間違っています。'
+                    WriteResultLog ('[Err ],パラメータ２:日付の桁数が間違っています。[' + $para02 + ']')
+                    $errflg = 1
+                }
+            }else{
+                #msg出力
+                write-host 'パラメータ２:日付の指定が間違っています。'
+                WriteResultLog ('[Err ],パラメータ２:日付の指定が間違っています。[' + $para02 + ']')
+                $errflg = 1
+            }
+        }
+    }else{
+        #msg出力
+        write-host "パラメータ１:ログ種別の指定に間違いがあります。`nd:日次 w:週次 m:月次"
+        WriteResultLog ('[Err ],パラメータ１:ログ種別の指定に間違いがあります。`nd:日次 w:週次 m:月次[' + $para01 + ']')
+        $errflg = 1
+    }
+    #戻り値を返す。
+    if($errflg -eq 0){
+        return $False
+    }else{
+        return $True
+    } 
+}
+
+################################################################################
+#実行ログ出力処理
+################################################################################
+function WriteResultLog($logmsg)
+{
+    #ログ書き込み時刻とメッセージを結合
+    $wrimsg = (Get-Date -Format "yyyy/MM/dd HH:mm:ss") + "," + $logmsg
+    #ログファイルに出力
+    write-output $wrimsg | out-file -encoding default -append $log_filepath
+}
+
+################################################################################
+#日付チェック
+################################################################################
+function IsDate([string]$check_date)
+{
+    #日付型に変換を試み、正常の場合はTrueを返す。
+    try{
+        [Datetime]::Parse($check_date)
+        return $True
+    }
+    #エラーの場合はFalseを返す。
+    catch{
+        return $False
+    }
+}
+
+################################################################################
+#数字チェック
+################################################################################
+function IsNumeric($chkstr)
+{
+    #正規表現で数字のみが含まれているかチェック
+    if($chkstr -match "^\d+$"){
+        return $True
+    }else{
+        return $False
+    }
+}
+
+################################################################################
+#日付表記変換(文字列を日付文字列へ変換)
+################################################################################
+function StringToDateString($tgdate,$fmtopt)
+{
+    $stdate = [string]$tgdate
+    $rtdate = $null
+    if ($fmtopt -eq 0){
+        #日付が6桁の場合
+        if($stdate.length -eq 6){
+            $rtdate = $stdate.substring(0,4)
+            $rtdate += "/" + $stdate.substring(4,2)
+        #日付が8桁の場合
+        }elseif($stdate.length -eq 8){
+            $rtdate = $stdate.substring(0,4)
+            $rtdate += "/" + $stdate.substring(4,2)
+            $rtdate += "/" + $stdate.substring(6,2) 
+        }
+    }else{
+        #日付が6桁の場合
+        if($stdate.length -eq 6){
+            $rtdate = $stdate.substring(0,4)
+            $rtdate += "/" + [int]$stdate.substring(4,2)
+        #日付が8桁の場合
+        }elseif($stdate.length -eq 8){
+            $rtdate = $stdate.substring(0,4)
+            $rtdate += "/" + [int]$stdate.substring(4,2)
+            $rtdate += "/" + [int]$stdate.substring(6,2) 
+        }
+    }
+    return $rtdate
+}
+
+################################################################################
+#日付表記変換(文字列型から日付型へ変換)
+################################################################################
+function StringToDate($tgdate)
+{
+    $rtdate = [datetime]::parseExact($tgdate,"yyyyMMdd",$null)
+    return $rtdate
+}
+
+################################################################################
+#日付表記変換(日付から文字列に変換)
+################################################################################
+function DatetypeToString([datetime]$tgdate)
+{
+    $rtdate = [string]$tgdate.year
+    $rtdate += right ('00' + [string]$tgdate.month) 2
+    $rtdate += right ('00' + [string]$tgdate.day) 2
+    return $rtdate
+}
+
+################################################################################
+#Right関数
+################################################################################
+function Right([string]$tgstrg,[int]$tgcout)
+{
+    #対象の文字列数より取り出す文字数指定が大きい場合は全てを返す。
+    if($tgstrg.length -lt $tgcou){
+        $rtstrg = $tgstrg
+    }else{
+        $rtstrg = $tgstrg.substring($tgstrg.Length - $tgcout,$tgcout)
+    }
+    return $rtstrg
+}
+
+################################################################################
+#Left関数
+################################################################################
+function Left([string]$tgstrg,[int]$tgcout)
+{
+    #対象の文字列数より取り出す文字数指定が大きい場合は全てを返す。
+    if($tgstrg.length -lt $tgcou){
+        $rtstrg = $tgstrg
+    }else{
+        $rtstrg = $tgstrg.substring(0,$tgcout)
+    }
+    return $rtstrg
+}
+
+################################################################################
+#インプットファイル文字列作成処理
+################################################################################
+function MakeFileList([string]$listop,[string]$date01,[string]$date02)
+{
+    #配列・変数の初期化
+    $filary = @()
+    $datest = ""
+    #インプットファイルのヘッダ切り替え
+    if($listop -eq 1){
+        $header = $input_filename_header401
+    }
+    if($listop -eq 2){
+        $header = $input_filename_header401
+    }
+    if($listop -eq 4){
+        $header = $input_filename_header402
+    }
+    #パラメータ2が8桁の場合
+    if ($date01.length -eq 8){
+        #開始日付と終了日付が同じ場合は単一日処理に切り替える。
+        if($date01 -eq $date02){
+            $date02 = ""
+        }
+        if($date02.length -eq 8){
+            #パラメータ1がパラメータ2より大きい場合は入れ替える。
+            if($date01 -gt $date02){
+                $temp = $date02
+                $date02 = $date01
+                $date01 = $temp
+            }
+            #日付文字列を日付型に変換
+            $date01dt = StringToDate $date01
+            $date02dt = StringToDate $date02
+            #パラメータ1とパラメータ2の差分を計算
+            $loopct = $date02dt - $date01dt
+            $loopct = [int]$loopct.days + 1
+            #開始日付から終了日付までのファイル名を作成
+            for ($j = 0; $j -lt $loopct; $j++)
+            {
+                $datetp = $date01dt.adddays($j)
+                $datenm = DatetypeToString $datetp
+                #24時間分のファイル名を作成
+                foreach($i in 1..24){
+                    $temp = $header + $listop + "_"
+                    $temp += $datenm + "_"
+                    $temp += right("00" + $i) 2
+                    #日付と時間も配列に格納
+                    $datest = StringToDateString $datenm 1
+                    $filary += ,@($temp,$datest,([string]( right ("00" + ($i - 1)) 2) + ":00"),$date01)
+                }
+            }
+        }else{
+            #24時間分のファイル名を作成
+            foreach($i in 1..24){
+                $temp = $header + $listop + "_"
+                $temp += $date01 + "_"
+                $temp += right("00" + $i) 2
+                #日付と時間も配列に格納
+                $datest = StringToDateString $date01 1
+                $filary += ,@($temp,$datest,([string]( right ("00" + ($i - 1)) 2) + ":00"),$date01)
+            }
+        }
+    }else{
+        #日付文字列を日付型に変換
+        $date01dt = StringToDate ($date01 + '01')
+        #月末(来月の初日から1日を引いた)のシリアル値を取得
+        $date02dt = ($date01dt.addMonths(1)).adddays(-1)
+        #指定年月の日数を計算
+        $loopct = $date02dt - $date01dt
+        $loopct = [int]$loopct.days + 1
+        write-host $loopct
+        #開始日付から終了日付までのファイル名を作成
+        for ($j = 0; $j -lt $loopct; $j++)
+        {
+            $datetp = $date01dt.adddays($j)
+            $datenm = DatetypeToString $datetp
+            #24時間分のファイル名を作成
+            foreach($i in 1..24){
+                $temp = $header + $listop + "_"
+                $temp += $datenm + "_"
+                $temp += right("00" + $i) 2
+                #日付と時間も配列に格納
+                $datest = StringToDateString $datenm 1
+                $filary += ,@($temp,$datest,([string]( right ("00" + ($i - 1)) 2) + ":00"),$date01)
+            }
+        }
+    }
+    return $filary
+}
+
+################################################################################
+#契約情報一覧ファイル名取得
+################################################################################
+function ImportContractFile()
+{
+    #契約情報一覧ファイル取得 ※契約情報一覧ファイルの後方一致条件が変わる場合は修正が必要。
+    $colist = Get-childitem $contract_folder -Recurse -File -Include *JPGC-CC0003_契約情報一覧.csv | Sort-Object Name;
+    
+    #ファイル名の指定がない場合は最新のファイルを選択する。
+    if($contract_file.length -eq 0){
+        $selfil = $colist[$colist.count - 1].name
+    }else{
+        foreach($co in $colist){
+            #指定されたファイルが存在した場合は、合致したファイルを選択する。
+            if($co -like ("*" + $contract_file)){
+                $selfil = $co.name
+            }
+        }
+        #該当するファイルが存在しない場合は最新のファイルを選択する。
+        if($selfil.length -eq 0){
+            #msg出力
+            write-host "指定された契約情報一覧ファイル["($contract_folder + "\" + $contract_file)"]は見つかりませんでした。"
+            WriteResultLog ('[Warn],指定された契約情報一覧ファイル[' + ($contract_folder + "\" + $contract_file) + ']は見つかりませんでした。')
+            $selfil = $co[$co.count - 1].name
+        }
+    }
+    #Import用フルパスファイル名を作成
+    $selpat = $contract_folder + "\" + $selfil
+    #msg出力
+    write-host "契約情報一覧ファイル["$selpat"]を使用します。"
+    WriteResultLog ('[Info],契約情報一覧ファイル[' + $selpat + ']を使用します。')
+    return $selpat
+}
+
+################################################################################
+#時間単位レポート作成処理 ※参照引数を利用
+################################################################################
+function MaketimeReport($selpat,$para01,$para02,$flist1,$flist2,$flist4)
+{
+    #ファイル名に付与する日付情報を作成
+    if($para01.length -eq 6){
+        $fndate = $para01
+    }else{
+        if($para02.length -eq 8){
+            $fndate = $para01 + "_" + $para02
+        }else{
+            $fndate = $para01
+        }
+    }
+    #契約情報一覧をハッシュに格納
+    $concsv = Import-Csv $selpat -Encoding Default
+    #ハッシュを初期化
+    $conhas = @{}
+    foreach($conrcd in $concsv){
+        #システム名内の半角スペースを"_"に置換
+        $conhas.add($conrcd.ホスト名,$conrcd.システム名.replace(" ","_"))
+    }
+    ####CPU/Memory情報変換処理
+    $datary = @{}
+    foreach($impcsv in $flist1){
+        $tgfile = $input_folder + "\" + $impcsv[0] + ".csv"
+        if(test-path $tgfile){
+            #入力レコードのカウンターを初期化
+            $i = 0
+            #msg出力
+            write-host '〇 ' $tgfile
+            WriteResultLog ('[Info],読込[' + ($tgfile) + ']')
+            #CSV形式で対象ファイルをインポート
+            #ファイルとしてインポート ※csv-importを利用した場合に項目編集が複雑になるためファイルとして読み込みをする。
+            $concsv = get-content -path $tgfile -Encoding Default
+            #CSVを配列に変換しヘッダーをスキップする。
+            foreach($conrcd in $concsv){
+                $conary = $conrcd.replace("`"","").split(",")
+                #ヘッダーをスキップ
+                if ($i -gt 0){
+                    $filenm = ($conhas[$conary[0]] + "_" + $conary[0] + "_CPU_MEM_" + $fndate)
+                    if($i -eq 2){
+                        #ヘッダー情報書き出し
+                        $head01 = '日付' + ',' + '時刻' + ',' + '平均使用率(CPU)'+ ',' +'最大使用率(CPU)' + ',' + '平均使用率(Memory)'+ ',' + '最大使用率(Memory)'
+                    }
+                    #実データ情報書き出し
+                    $tempky = ""
+                    $tempdy = ""
+                    #ハッシュキーを作成
+                    $tempky = ($filenm + "," + $conary[0] + "," + $impcsv[1] + "," + $impcsv[2])
+                    #ハッシュバリューを作成
+                    $tempdt = ($conary[2] + "," + $conary[3] + "," + $conary[5] + "," + $conary[6])
+                    #ハッシュに格納
+                    $datary.add($tempky,$tempdt)
+                }$i += 1
+            }
+        }else{
+            #msg出力
+            write-host '× ' $tgfile
+            WriteResultLog ('[Warn],無し[' + ($tgfile) + ']')
+        }
+    }
+    #####CPU/Memory情報ファイル書き出し
+    $outrcd = ""
+    #ハッシュキーをソートして配列に格納
+    $tmpary = @(($datary.GetEnumerator() | sort -Property key).key)
+    #ハッシュに1レコード以上のデータが存在する場合
+    if($datary.count -gt 0){
+        #ソートされたハッシュキー順にレコードを処理
+        foreach($datrcd in ($tmpary)){
+            #ハッシュキーを出力用変数に格納
+            $outrcd = $datrcd
+            #ハッシュバリューを出力用変数に格納
+            $outrcd += "," + $datary[$datrcd]
+            #出力ファイル名を生成
+            $otfile = $output_folder + "\" + $datrcd.split(",")[0] + ".csv"
+            #出力する時刻情報を生成
+            if(($outrcd.split(",")[3]).Substring(0,1) -eq "0"){
+                $tmptim = right ($outrcd.split(",")[3]) 4
+            }else{
+                $tmptim = ($outrcd.split(",")[3])
+            }
+            #出力先にファイルが存在しない場合は、ヘッダー情報を出力する。
+            if(test-path $otfile){
+                $writel = $outrcd.split(",")[2] + "," + $tmptim + "," + $outrcd.split(",")[4] + "," + $outrcd.split(",")[5] + "," + $outrcd.split(",")[6] + "," + $outrcd.split(",")[7]
+                write-output $writel | out-file -encoding default -append $otfile
+            }else{
+                write-output $head01 | out-file -encoding default $otfile
+                $writel = $outrcd.split(",")[2] + "," + $tmptim + "," + $outrcd.split(",")[4] + "," + $outrcd.split(",")[5] + "," + $outrcd.split(",")[6] + "," + $outrcd.split(",")[7]
+                write-output $writel | out-file -encoding default -append $otfile
+            }
+        }
+    }
+    #####DISK情報変換処理
+    $datary = @{}
+    foreach($impcsv in $flist2){
+        $tgfile = $input_folder + "\" + $impcsv[0] + ".csv"
+        if(test-path $tgfile){
+            #msg出力
+            write-host '〇 ' $tgfile
+            WriteResultLog ('[Info],読込[' + ($tgfile) + ']')
+            #CSV形式で対象ファイルをインポート
+            #$concsv = Import-Csv $tgfile -Encoding Default
+            #ファイルとしてインポート ※csv-importを利用した場合に項目編集が複雑になるためファイルとして読み込みをする。
+            $concsv = get-content -path $tgfile -Encoding Default
+            $i = 0
+            #CSVを配列に変換しヘッダーをスキップする。
+            foreach($conrcd in $concsv){
+                $conary = $conrcd.replace("`"","").split(",")
+                #ヘッダーをスキップ
+                if ($i -gt 0){
+                    $filenm = ($conhas[$conary[0]] + "_" + $conary[0] + "_DISK_" + $fndate)
+                    $tempky = ""
+                    $tempdt = ""
+                    $tempky = ($filenm + "," + $conary[0] + "," + $impcsv[1] + "," + $impcsv[2])
+                    $tempdt = ($conary[1] + "," + $conary[4] + "," + $conary[5])
+                    #実データ情報書き出し
+                    if($datary.count -eq 0){ 
+                        $datary.add($tempky,$tempdt)
+                    }else{
+                        #既存のデータを検索
+                        if($datary.containskey($tempky)){
+                            $datary[$tempky] = $datary[$tempky] + "," + $conary[1] + "," +  $conary[4] + "," + $conary[5]
+                        }else{
+                            $datary.add($tempky,$tempdt)
+                        }
+                    }
+                }$i += 1
+            }
+        }else{
+            #msg出力
+            write-host '× ' $tgfile
+            WriteResultLog ('[Warn],無し[' + ($tgfile) + ']')
+        }
+    }
+    #####DISK情報ファイル書き出し
+    $outrcd = ""
+    if($datary.count -gt 0){
+        $tmpary = @(($datary.GetEnumerator() | sort -Property key).key)
+        foreach($datrcd in ($tmpary)){
+            $outrcd = $datrcd
+            $outrcd += "," + $datary[$datrcd]
+            $otfile = $output_folder + "\" + $outrcd.split(",")[0] + ".csv"
+            if(($outrcd.split(",")[3]).Substring(0,1) -eq "0"){
+                $tmptim = right ($outrcd.split(",")[3]) 4
+            }else{
+                $tmptim = ($outrcd.split(",")[3])
+            }
+            #write-host $otfile
+            #write-host $outrcd
+            #出力ファイルが存在しない場合は、ヘッダー情報を出力する。
+            if(test-path $otfile){
+                $colcnt = ($outrcd.split(",").count - 4) / 3
+                $data02 = ""
+                #書き出しデータを作成
+                for($j=1;$j -le $colcnt;$j++ ){
+                    $data02 += "," + $outrcd.split(",")[($j * 3) + 2] + "," + $outrcd.split(",")[(($j * 3) + 3)]
+                }
+                $writel = $outrcd.split(",")[2] + "," + $tmptim + $data02
+                write-output $writel | out-file -encoding default -append $otfile
+            }else{
+                $colcnt = ($outrcd.split(",").count - 4) / 3
+                $head02 = ""
+                $data02 = ""
+                #書き出しデータを作成
+                for($j=1;$j -le $colcnt;$j++ ){
+                    $head02 += "," + "平均使用率(Disk) " + $outrcd.split(",")[(($j * 3) + 1)] +  "," + "最大使用率(Disk) " + $outrcd.split(",")[(($j * 3) + 1)]
+                    $data02 += "," + $outrcd.split(",")[(($j * 3) + 2)] + "," + $outrcd.split(",")[(($j * 3) + 3)]
+                }
+                $header = "日付,時刻" + $head02
+                $writel = $outrcd.split(",")[2] + "," + $tmptim + $data02
+                write-output $header | out-file -encoding default $otfile
+                write-output $writel | out-file -encoding default -append $otfile
+            }
+        }
+    }
+    #####IOPS情報変換処理
+    $datary = @{}
+    foreach($impcsv in $flist4){
+        $tgfile = $input_folder + "\" + $impcsv[0] + ".csv"
+        if(test-path $tgfile){
+            #msg出力
+            write-host '〇 ' $tgfile
+            WriteResultLog ('[Info],読込[' + $tgfile + ']')
+            #CSV形式で対象ファイルをインポート
+            #ファイルとしてインポート ※csv-importを利用した場合に項目編集が複雑になるためファイルとして読み込みをする。
+            $concsv = get-content -path $tgfile -Encoding Default
+            $i = 0
+            #CSVを配列に変換しヘッダーをスキップする。
+            foreach($conrcd in $concsv){
+                $conary = $conrcd.replace("`"","").split(",")
+                #ヘッダーをスキップ
+                if ($i -gt 0){
+                    $filenm = ($conhas[$conary[2]] + "_" + $conary[2] + "_IOPS_" + $fndate)
+                    $tempky = ""
+                    $tempdt = ""
+                    $tempky = ($filenm + "," + $conary[2] + "," + $impcsv[1] + "," + $impcsv[2])
+                    $tempdt = ($conary[3] + "," + $conary[4])
+                    #実データ情報書き出し
+                    if($datary.count -eq 0){ 
+                        $datary.add($tempky,$tempdt)
+                    }else{
+                        #既存のデータを検索
+                        if($datary.containskey($tempky)){
+                            $datary[$tempky] = $datary[$tempky] + "," +  $conary[3] + "," + $conary[4]
+                        }else{
+                            $datary.add($tempky,$tempdt)
+                        }
+                    }
+                }$i += 1
+            }
+        }else{
+            #msg出力
+            write-host '× ' $tgfile
+            WriteResultLog ('[Warn],無し[' + $tgfile + ']')
+        }
+    }
+    #####IOPS情報ファイル書き出し
+    $outrcd = ""
+    if($datary.count -gt 0){
+        $tmpary = @(($datary.GetEnumerator() | sort -Property key).key)
+        foreach($datrcd in ($tmpary)){
+            $outrcd = $datrcd
+            $outrcd += "," + $datary[$datrcd]
+            $otfile = $output_folder + "\" + $outrcd.split(",")[0] + ".csv"
+            if(($outrcd.split(",")[3]).Substring(0,1) -eq "0"){
+                $tmptim = right ($outrcd.split(",")[3]) 4
+            }else{
+                $tmptim = ($outrcd.split(",")[3])
+            }
+            if(test-path $otfile){
+                $colcnt = ($outrcd.split(",").count - 4) / 2
+                $data04 = ""
+                #書き出しデータを作成
+                for($j=1;$j -le $colcnt;$j++ ){
+                    $data04 += "," + $outrcd.split(",")[(($j * 2) + 3)]
+                }
+                $writel = $outrcd.split(",")[2] + "," + $tmptim + $data04
+                #ファイル出力処理
+                write-output $writel | out-file -encoding default -append $otfile
+            }else{
+                $colcnt = ($outrcd.split(",").count - 4) / 2
+                $head04 = ""
+                $data04 = ""
+                #書き出しデータを作成
+                for($j=1;$j -le $colcnt;$j++ ){
+                    $head04 += "," + $outrcd.split(",")[(($j * 2) + 2)]
+                    $data04 += "," + $outrcd.split(",")[(($j * 2) + 3)]
+                }
+                $header = "日付,時刻" + $head04
+                $writel = $outrcd.split(",")[2] + "," + $tmptim + $data04
+                #ファイル出力処理
+                write-output $header | out-file -encoding default $otfile
+                write-output $writel | out-file -encoding default -append $otfile
+            } 
+        }
+    }
+}
+
+################################################################################
+#メイン処理
+################################################################################
+
+#フォルダとファイルをチェック
+$errflg = CheckFolder
+#パラメータにエラーがない場合は処理を継続する。
+if($errflg -eq $false){
+    #コマンドラインパラメータをチェック ※なぜか戻り値が配列になってしまうので暫定対処
+    $errflg = (CheckParameter $inrang $indate $inweek)
+}
+#フォルダチェックでエラーがない場合は処理を継続する。
+if($errflg -eq $False){
+    #週次処理以外の場合は第3パラメータを削除
+    if($inrang -ne 'w'){
+        $inweek = ""
+    }
+    #対象ファイル名を作成
+    $flist1 = MakeFileList 1 $indate $inweek
+    $flist2 = MakeFileList 2 $indate $inweek
+    $flist4 = MakeFileList 4 $indate $inweek
+    $selpat = ImportContractFile
+    #日次レポート作成処理
+    if($inrang -eq 'd'){
+        #msg出力
+        write-host "["($flist1[0].split(",")[1])"]分のレポート出力処理を開始します。"
+        WriteResultLog ('[Info],[' + ($flist1[0].split(",")[1]) + ']分のレポート出力処理を開始します。')
+        #レポート出力処理
+        MaketimeReport $selpat $indate '' $flist1 $flist2 $flist4
+    }
+    #週次レポート作成処理
+    if($inrang -eq 'w'){
+        #パラメータ2がパラメータ３より大きい場合は入れ替える。
+        if($indate -gt $inweek){
+            $date01 = $inweek
+            $date02 = $indate
+        }else{
+            $date01 = $indate
+            $date02 = $inweek
+        }
+        #ファイル名から日付を取得
+        $chkdat = $flist1[0].split(",")[1]
+        $i = 0
+        #配列の初期化
+        $flista = @()
+        $flistb = @()
+        $flistd = @()
+        #日別で処理を分割し、レポートを作成
+        foreach($chkfil in $flist1){
+            #日付が変わった場合
+            if($chkdat -eq ($chkfil.split(",")[1])){
+                #ファイル情報を引数配列に格納
+                $flista += ,@($flist1[$i])
+                $flistb += ,@($flist2[$i])
+                $flistd += ,@($flist4[$i])
+            }else{
+                #msg出力
+                write-host "["($chkdat)"]分のレポート出力処理を開始します。"
+                WriteResultLog ('[Info],[' + ($chkdat) + ']分のレポート出力処理を開始します。')
+                #レポート作成処理
+                MaketimeReport $selpat $date01 $date02 $flista $flistb $flistd
+                #チェック日付を更新
+                $chkdat = $flist1[$i].split(",")[1]
+                #配列初期化
+                $flista = @()
+                $flistb = @()
+                $flistd = @()
+                #最新の情報を引数配列に格納
+                $flista += ,@($flist1[$i])
+                $flistb += ,@($flist2[$i])
+                $flistd += ,@($flist4[$i])
+            }
+            #ファイル名配列が最後のレコードの場合はレポート作成処理を実行する。
+            if($flist1.count -le $i + 1){
+                #msg出力
+                write-host "["($chkfil.split(",")[1])"]分のレポート出力処理を開始します。"
+                WriteResultLog ('[Info],[' + ($chkfil.split(",")[1]) + ']分のレポート出力処理を開始します。')
+                #レポート作成処理
+                MaketimeReport $selpat $date01 $date02 $flista $flistb $flistd
+            }
+            $i += 1
+        }
+    }
+    #月次レポート作成処理
+    if($inrang -eq 'm'){
+        write-host 'm'
+
+        #ファイル名から日付を取得
+        $chkdat = $flist1[0].split(",")[1]
+        $i = 0
+        #配列の初期化
+        $flista = @()
+        $flistb = @()
+        $flistd = @()
+        #日別で処理を分割し、レポートを作成
+        foreach($chkfil in $flist1){
+            #日付が変わった場合
+            if($chkdat -eq ($chkfil.split(",")[1])){
+                #ファイル情報を引数配列に格納
+                $flista += ,@($flist1[$i])
+                $flistb += ,@($flist2[$i])
+                $flistd += ,@($flist4[$i])
+            }else{
+                #msg出力
+                write-host "["($chkdat)"]分のレポート出力処理を開始します。"
+                WriteResultLog ('[Info],[' + ($chkdat) + ']分のレポート出力処理を開始します。')
+                #レポート作成処理
+                MaketimeReport $selpat $indate $inweek $flista $flistb $flistd
+                #チェック日付を更新
+                $chkdat = $flist1[$i].split(",")[1]
+                #配列初期化
+                $flista = @()
+                $flistb = @()
+                $flistd = @()
+                #最新の情報を引数配列に格納
+                $flista += ,@($flist1[$i])
+                $flistb += ,@($flist2[$i])
+                $flistd += ,@($flist4[$i])
+            }
+            #ファイル名配列が最後のレコードの場合はレポート作成処理を実行する。
+            if($flist1.count -le $i + 1){
+                #msg出力
+                write-host "["($chkfil.split(",")[1])"]分のレポート出力処理を開始します。"
+                WriteResultLog ('[Info],[' + ($chkfil.split(",")[1]) + ']分のレポート出力処理を開始します。')
+                #レポート作成処理
+                MaketimeReport $selpat $indate $inweek $flista $flistb $flistd
+            }
+            $i += 1
+        }
+    }
+    #msg出力
+    write-host '処理が完了しました。'
+    WriteResultLog ('[Info],レポート作成処理が完了しました。')
+}
