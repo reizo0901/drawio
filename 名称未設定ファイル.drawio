@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T04:49:47.925Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="Dta56IUbplCH_5Z4O3zY" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-13T04:51:53.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="rgdTpqACaAINxvJ-FlYU" version="23.1.1" type="github">
   <diagram name="ページ1" id="Sno0RHyQ97pvPIhAmtWO">
     <mxGraphModel dx="983" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="P1kFlnm7NQrcfKAeQpRK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="P1kFlnm7NQrcfKAeQpRK-1" target="P1kFlnm7NQrcfKAeQpRK-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P1kFlnm7NQrcfKAeQpRK-1" value="スタート" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="P1kFlnm7NQrcfKAeQpRK-1" value="処理開始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="320" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P1kFlnm7NQrcfKAeQpRK-24" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="P1kFlnm7NQrcfKAeQpRK-2" target="P1kFlnm7NQrcfKAeQpRK-22">
@@ -37,8 +37,14 @@
         <mxCell id="P1kFlnm7NQrcfKAeQpRK-9" value="OKファイルに出力" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="320" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P1kFlnm7NQrcfKAeQpRK-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="P1kFlnm7NQrcfKAeQpRK-10" target="P1kFlnm7NQrcfKAeQpRK-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="P1kFlnm7NQrcfKAeQpRK-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="P1kFlnm7NQrcfKAeQpRK-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="400" />
+              <mxPoint x="383" y="400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="P1kFlnm7NQrcfKAeQpRK-10" value="NGファイルに出力" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="460" y="340" width="120" height="40" as="geometry" />
@@ -73,14 +79,26 @@
         <mxCell id="P1kFlnm7NQrcfKAeQpRK-27" value="保存期間１年を超えたファイルを取得" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="320" y="540" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="P1kFlnm7NQrcfKAeQpRK-34" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="P1kFlnm7NQrcfKAeQpRK-28" target="P1kFlnm7NQrcfKAeQpRK-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P1kFlnm7NQrcfKAeQpRK-28" value="対象ファイル数&lt;br style=&quot;font-size: 9px;&quot;&gt;ループ" style="shape=loopLimit;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=9;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="320" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kFlnm7NQrcfKAeQpRK-37" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="P1kFlnm7NQrcfKAeQpRK-30" target="P1kFlnm7NQrcfKAeQpRK-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P1kFlnm7NQrcfKAeQpRK-30" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=9;fontColor=default;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="320" y="720" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="P1kFlnm7NQrcfKAeQpRK-35" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="P1kFlnm7NQrcfKAeQpRK-33" target="P1kFlnm7NQrcfKAeQpRK-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P1kFlnm7NQrcfKAeQpRK-33" value="対象のファイルを削除" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="320" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kFlnm7NQrcfKAeQpRK-36" value="処理終了" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="320" y="780" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
