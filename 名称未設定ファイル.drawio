@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T06:40:49.147Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="0ik2Y1kVGHVbpIX6NArM" version="23.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-16T05:36:14.490Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="klEEcay9QNemv_Q082l2" version="23.1.3" type="github">
   <diagram name="ページ1" id="Sno0RHyQ97pvPIhAmtWO">
-    <mxGraphModel dx="983" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="678" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,41 +117,59 @@
         <mxCell id="P1kFlnm7NQrcfKAeQpRK-45" value="ドライブマウント&lt;br&gt;処理" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="40" y="100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qkshi-I4SKc8RLtoQYyM-2" value="Zドライブに共有ディスクをマウント" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="320" y="280" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Qkshi-I4SKc8RLtoQYyM-4" value="マウント成功" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="320" y="400" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Qkshi-I4SKc8RLtoQYyM-5" value="はい" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="380" y="440" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Qkshi-I4SKc8RLtoQYyM-6" value="いいえ" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="440" y="400" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Qkshi-I4SKc8RLtoQYyM-8" value="Zドライブなし？" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="320" y="100" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Qkshi-I4SKc8RLtoQYyM-9" value="はい" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="380" y="140" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Qkshi-I4SKc8RLtoQYyM-10" value="いいえ" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="440" y="100" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Qkshi-I4SKc8RLtoQYyM-11" value="ファイルをコピー&lt;br&gt;(Cドライブ→共有ディスク)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="320" y="340" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Qkshi-I4SKc8RLtoQYyM-12" value="Zドライブをアンマウント" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="320" y="160" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Qkshi-I4SKc8RLtoQYyM-13" value="Zドライブなし？" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Qkshi-I4SKc8RLtoQYyM-2" value="ターゲットを" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="320" y="220" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qkshi-I4SKc8RLtoQYyM-14" value="いいえ" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="440" y="220" width="50" height="20" as="geometry" />
+        <mxCell id="Qkshi-I4SKc8RLtoQYyM-4" value="マウント成功" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;fillColor=#ffe6cc;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="490" y="500" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qkshi-I4SKc8RLtoQYyM-15" value="はい" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="380" y="260" width="50" height="20" as="geometry" />
+        <mxCell id="Qkshi-I4SKc8RLtoQYyM-5" value="はい" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="550" y="540" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qkshi-I4SKc8RLtoQYyM-6" value="いいえ" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="610" y="500" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qkshi-I4SKc8RLtoQYyM-8" value="共有ディスクなし？" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;fillColor=#ffe6cc;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="320" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qkshi-I4SKc8RLtoQYyM-9" value="はい" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="380" y="140" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qkshi-I4SKc8RLtoQYyM-10" value="いいえ" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="440" y="100" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qkshi-I4SKc8RLtoQYyM-11" value="ファイルをコピー&lt;br&gt;(Cドライブ→共有ディスク)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="490" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qkshi-I4SKc8RLtoQYyM-12" value="Zドライブをアンマウント" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="700" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qkshi-I4SKc8RLtoQYyM-13" value="PDN01？" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;fillColor=#ffe6cc;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="320" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qkshi-I4SKc8RLtoQYyM-14" value="いいえ" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="440" y="160" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qkshi-I4SKc8RLtoQYyM-15" value="はい" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="380" y="200" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b4JHVFvh4AoB1611Vh3n-1" value="PDN01？" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b4JHVFvh4AoB1611Vh3n-2" value="いいえ" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="720" y="160" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b4JHVFvh4AoB1611Vh3n-3" value="はい" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="660" y="200" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b4JHVFvh4AoB1611Vh3n-4" value="Zドライブに共有ディスクをマウント" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="460" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b4JHVFvh4AoB1611Vh3n-5" value="Zドライブに共有ディスクをマウント" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="600" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b4JHVFvh4AoB1611Vh3n-6" value="Zドライブに共有ディスクをマウント" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="740" y="220" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
