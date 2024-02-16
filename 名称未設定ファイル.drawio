@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-16T09:04:25.752Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="FuXU2DLl32CFpCD6JtHH" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-16T09:06:19.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="xPk_lYkfx-ukGRkwcePn" version="23.1.5" type="github">
   <diagram name="ページ1" id="Sno0RHyQ97pvPIhAmtWO">
-    <mxGraphModel dx="468" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,25 +204,25 @@
         <mxCell id="b4JHVFvh4AoB1611Vh3n-65" value="失敗" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="160" y="220" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="b4JHVFvh4AoB1611Vh3n-68" value="c:\windows\system32\winent/logs" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=default;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="b4JHVFvh4AoB1611Vh3n-68" value="c:\windows\system32\winent/logs" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="196" y="819" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="b4JHVFvh4AoB1611Vh3n-69" value="g:\winevt\logs\&amp;lt;サーバ名&amp;gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=default;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="b4JHVFvh4AoB1611Vh3n-69" value="g:\winevt\logs\&amp;lt;サーバ名&amp;gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="196" y="855" width="134" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="b4JHVFvh4AoB1611Vh3n-70" value="アーカイブフォルダ(共有ディスク)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=default;fontStyle=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="b4JHVFvh4AoB1611Vh3n-70" value="アーカイブフォルダ(共有ディスク)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;fontStyle=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="186" y="840" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="b4JHVFvh4AoB1611Vh3n-71" value="アーカイブフォルダ(Cドライブ)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=default;fontStyle=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="b4JHVFvh4AoB1611Vh3n-71" value="アーカイブフォルダ(Cドライブ)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;fontStyle=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="186" y="804" width="194" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="buQIs0NAOiMbv2Qoru7r-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=default;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="buQIs0NAOiMbv2Qoru7r-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;labelBackgroundColor=default;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="180" y="160" width="190" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="buQIs0NAOiMbv2Qoru7r-2" value="c:\tool" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="buQIs0NAOiMbv2Qoru7r-2" value="c:\tool" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="196" y="179" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="buQIs0NAOiMbv2Qoru7r-5" value="実行ログフォルダ" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="buQIs0NAOiMbv2Qoru7r-5" value="実行ログフォルダ" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=10;fontColor=default;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="186" y="164" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
