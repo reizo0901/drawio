@@ -80,7 +80,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BorZKG-VS0TfqSGUH6tz" name="オブジェクト">
-    <mxGraphModel dx="1044" dy="571" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="597" dy="326" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -266,6 +266,24 @@
         </mxCell>
         <mxCell id="1tpWhOUXMTHyLQTE0h52-72" value="画面表示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="480" y="296" width="96" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="1tpWhOUXMTHyLQTE0h52-75" value="結果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="168" y="120" width="32" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="1tpWhOUXMTHyLQTE0h52-76" value="結果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="301" y="120" width="32" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="1tpWhOUXMTHyLQTE0h52-77" value="結果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="414" y="120" width="32" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="1tpWhOUXMTHyLQTE0h52-78" value="結果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="168" y="250" width="32" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="1tpWhOUXMTHyLQTE0h52-79" value="結果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="301" y="250" width="32" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="1tpWhOUXMTHyLQTE0h52-80" value="結果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="414" y="250" width="32" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
