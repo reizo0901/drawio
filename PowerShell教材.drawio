@@ -85,10 +85,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OKib9v1Q8HF2tG7s9Y1B-18" value="PowerShell" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="26" y="262" width="96" height="32" as="geometry" />
+          <mxGeometry x="32" y="230" width="96" height="32" as="geometry" />
         </mxCell>
         <mxCell id="OKib9v1Q8HF2tG7s9Y1B-31" value="&lt;div&gt;コマンドプロンプト&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="26" y="146" width="120" height="32" as="geometry" />
+          <mxGeometry x="32" y="112" width="120" height="32" as="geometry" />
         </mxCell>
         <mxCell id="1tpWhOUXMTHyLQTE0h52-2" value="パイプ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="218" y="188" width="60" height="16" as="geometry" />
