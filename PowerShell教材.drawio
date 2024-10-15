@@ -628,7 +628,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XjUuoSpu1XDT7G1jPBUP" name="変数">
-    <mxGraphModel dx="206" dy="-1025" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="512" dy="-812" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -994,9 +994,6 @@
         </mxCell>
         <mxCell id="gwZwfgeEe0qhVbPA99Kf-1" value="●" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066cc;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="248" y="1549" width="12" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="gwZwfgeEe0qhVbPA99Kf-2" value="●" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006600;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1513" width="12" height="8" as="geometry" />
         </mxCell>
         <mxCell id="gwZwfgeEe0qhVbPA99Kf-3" value="●" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff3333;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="253" y="1506" width="12" height="8" as="geometry" />
