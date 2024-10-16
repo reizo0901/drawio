@@ -628,7 +628,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XjUuoSpu1XDT7G1jPBUP" name="変数">
-    <mxGraphModel dx="237" dy="129" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="409" dy="224" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1023,7 +1023,7 @@
           <mxGeometry y="4" width="29.85" height="8.76" as="geometry" />
         </mxCell>
         <mxCell id="thcvpehMJCYwrJXpUw1j-69" value="一次元" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;fontStyle=1;fontColor=#FFFFFF;rotation=0;" vertex="1" parent="thcvpehMJCYwrJXpUw1j-67">
-          <mxGeometry x="2.92" y="4.38" width="24" height="8" as="geometry" />
+          <mxGeometry x="2.92" y="4" width="24" height="8" as="geometry" />
         </mxCell>
         <mxCell id="thcvpehMJCYwrJXpUw1j-70" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="235.20999999999995" y="1145.87" width="110.43000000000005" height="90.13000000000011" as="geometry" />
@@ -1068,7 +1068,7 @@
           <mxGeometry y="4" width="29.85" height="8.76" as="geometry" />
         </mxCell>
         <mxCell id="thcvpehMJCYwrJXpUw1j-137" value="一次元" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;fontStyle=1;fontColor=#FFFFFF;rotation=0;" vertex="1" parent="thcvpehMJCYwrJXpUw1j-135">
-          <mxGeometry x="2.92" y="4.38" width="24" height="8" as="geometry" />
+          <mxGeometry x="2.92" y="4.38" width="24" height="8.62" as="geometry" />
         </mxCell>
         <mxCell id="thcvpehMJCYwrJXpUw1j-138" value="●" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff3333;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="279" y="1200" width="12" height="8" as="geometry" />
