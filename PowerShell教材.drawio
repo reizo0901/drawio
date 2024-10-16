@@ -628,7 +628,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XjUuoSpu1XDT7G1jPBUP" name="変数">
-    <mxGraphModel dx="140" dy="-1092" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="418" dy="-941" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -836,13 +836,13 @@
         <mxCell id="IqHbXRjTM6Dfw_MeizxH-75" value="[&lt;font color=&quot;#006600&quot;&gt;1&lt;/font&gt;,&lt;font color=&quot;#0066cc&quot;&gt;0&lt;/font&gt;,&lt;font color=&quot;#ff3333&quot;&gt;0&lt;/font&gt;]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;fontStyle=1;fontColor=#4D4D4D;" parent="IqHbXRjTM6Dfw_MeizxH-23" vertex="1">
           <mxGeometry x="7" y="44" width="21.68" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="IqHbXRjTM6Dfw_MeizxH-54" value="" style="endArrow=block;html=1;rounded=0;endFill=1;strokeColor=#006600;strokeWidth=3;fontColor=#006600;" parent="1" edge="1">
+        <mxCell id="IqHbXRjTM6Dfw_MeizxH-54" value="" style="endArrow=block;html=1;rounded=0;endFill=1;strokeColor=#006600;strokeWidth=3;fontColor=#006600;endSize=4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="207.21" y="1594.87" as="sourcePoint" />
             <mxPoint x="233.21" y="1524.87" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IqHbXRjTM6Dfw_MeizxH-55" value="" style="endArrow=block;html=1;rounded=0;endFill=1;strokeColor=#004C99;strokeWidth=3;" parent="1" edge="1">
+        <mxCell id="IqHbXRjTM6Dfw_MeizxH-55" value="" style="endArrow=block;html=1;rounded=0;endFill=1;strokeColor=#004C99;strokeWidth=3;endSize=4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="207.21" y="1594.87" as="sourcePoint" />
             <mxPoint x="207.42000000000002" y="1490.87" as="targetPoint" />
@@ -1031,7 +1031,7 @@
         <mxCell id="4yD9Z0oQAljZ01kbhP2O-4" value="一次元" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="298" y="1276" width="31" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="4yD9Z0oQAljZ01kbhP2O-11" value="" style="endArrow=block;html=1;rounded=0;endFill=1;strokeColor=#ff3333;strokeWidth=3;fillColor=#ff3333;" edge="1" parent="1">
+        <mxCell id="4yD9Z0oQAljZ01kbhP2O-11" value="" style="endArrow=block;html=1;rounded=0;endFill=1;strokeColor=#ff3333;strokeWidth=3;fillColor=#ff3333;endSize=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="208.32" y="1594" as="sourcePoint" />
             <mxPoint x="320.32" y="1594" as="targetPoint" />
