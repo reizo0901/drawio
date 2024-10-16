@@ -628,7 +628,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XjUuoSpu1XDT7G1jPBUP" name="変数">
-    <mxGraphModel dx="418" dy="-941" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="140" dy="-1092" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1044,19 +1044,19 @@
           <mxGeometry x="4.86" y="4.9399999999999995" width="29.85" height="8.76" as="geometry" />
         </mxCell>
         <mxCell id="4yD9Z0oQAljZ01kbhP2O-23" value="三次元" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;fontStyle=1;fontColor=#FFFFFF;rotation=-70;" vertex="1" parent="4yD9Z0oQAljZ01kbhP2O-21">
-          <mxGeometry x="4" width="31" height="18" as="geometry" />
+          <mxGeometry x="5" y="0.4900000000000002" width="31" height="18" as="geometry" />
         </mxCell>
         <mxCell id="4yD9Z0oQAljZ01kbhP2O-24" value="" style="group;rotation=-70;fontSize=10;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="170" y="1550.49" width="40" height="21.29" as="geometry" />
+          <mxGeometry x="170" y="1550.49" width="67" height="22.552960592996108" as="geometry" />
         </mxCell>
         <mxCell id="4yD9Z0oQAljZ01kbhP2O-27" value="" style="group;rotation=-20;" vertex="1" connectable="0" parent="4yD9Z0oQAljZ01kbhP2O-24">
-          <mxGeometry x="25.998524693018798" y="-8.492960592996113" width="25.122950613962402" height="31.04592118599222" as="geometry" />
+          <mxGeometry x="25.998524693018798" y="-8.492960592996113" width="41.001475306981206" height="31.04592118599222" as="geometry" />
         </mxCell>
         <mxCell id="4yD9Z0oQAljZ01kbhP2O-25" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#004C99;strokeColor=none;rotation=-90;" vertex="1" parent="4yD9Z0oQAljZ01kbhP2O-27">
           <mxGeometry x="-3" y="11" width="29.85" height="8.76" as="geometry" />
         </mxCell>
         <mxCell id="4yD9Z0oQAljZ01kbhP2O-26" value="二次元" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;fontStyle=1;fontColor=#FFFFFF;rotation=-90;" vertex="1" parent="4yD9Z0oQAljZ01kbhP2O-27">
-          <mxGeometry y="6" width="24" height="18" as="geometry" />
+          <mxGeometry x="-0.08" y="6.38" width="24" height="18" as="geometry" />
         </mxCell>
         <mxCell id="4yD9Z0oQAljZ01kbhP2O-32" value="" style="group;align=center;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="226.27" y="1585" width="29.85" height="18" as="geometry" />
