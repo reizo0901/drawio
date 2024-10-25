@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.7.17">
   <diagram name="ページ1" id="CurkHe3l2MO2rF6_3hxU">
-    <mxGraphModel dx="717" dy="1543" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="867" dy="1621" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,7 +78,7 @@
         <mxCell id="ERc8KlYLKag8S-tgoUKt-101" value="" style="group" vertex="1" connectable="0" parent="ERc8KlYLKag8S-tgoUKt-95">
           <mxGeometry x="391.85" y="62.25" width="60" height="54.74000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="ERc8KlYLKag8S-tgoUKt-88" value="Mirror" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ERc8KlYLKag8S-tgoUKt-101">
+        <mxCell id="ERc8KlYLKag8S-tgoUKt-88" value="Standby" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ERc8KlYLKag8S-tgoUKt-101">
           <mxGeometry y="40.74000000000001" width="60" height="14" as="geometry" />
         </mxCell>
         <mxCell id="ERc8KlYLKag8S-tgoUKt-94" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.fsx;" vertex="1" parent="ERc8KlYLKag8S-tgoUKt-101">
@@ -90,7 +90,7 @@
         <mxCell id="ERc8KlYLKag8S-tgoUKt-85" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_postgresql_instance;" vertex="1" parent="ERc8KlYLKag8S-tgoUKt-200">
           <mxGeometry x="15" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ERc8KlYLKag8S-tgoUKt-86" value="Mirror" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ERc8KlYLKag8S-tgoUKt-200">
+        <mxCell id="ERc8KlYLKag8S-tgoUKt-86" value="Standby" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ERc8KlYLKag8S-tgoUKt-200">
           <mxGeometry y="42.99000000000001" width="60" height="14" as="geometry" />
         </mxCell>
         <mxCell id="ERc8KlYLKag8S-tgoUKt-33" value="VPC" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#336600;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" vertex="1" parent="1">
