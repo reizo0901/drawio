@@ -189,11 +189,11 @@
         <mxCell id="ERc8KlYLKag8S-tgoUKt-72" value="ALB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ERc8KlYLKag8S-tgoUKt-1">
           <mxGeometry x="220" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ERc8KlYLKag8S-tgoUKt-73" value="ALB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ERc8KlYLKag8S-tgoUKt-1">
-          <mxGeometry x="220" y="438" width="60" height="30" as="geometry" />
+        <mxCell id="ERc8KlYLKag8S-tgoUKt-74" value="Elastic&lt;div&gt;Network&lt;/div&gt;&lt;div&gt;Interface&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ERc8KlYLKag8S-tgoUKt-1">
+          <mxGeometry x="238" y="186" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ERc8KlYLKag8S-tgoUKt-74" value="ALB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ERc8KlYLKag8S-tgoUKt-1">
-          <mxGeometry x="220" y="182" width="60" height="30" as="geometry" />
+        <mxCell id="ERc8KlYLKag8S-tgoUKt-75" value="Elastic&lt;div&gt;Network&lt;/div&gt;&lt;div&gt;Interface&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ERc8KlYLKag8S-tgoUKt-1">
+          <mxGeometry x="238" y="439" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
