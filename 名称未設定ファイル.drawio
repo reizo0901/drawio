@@ -89,6 +89,15 @@
         <mxCell id="Jv4_3_DliBv_FP3jyJoI-34" value="偽" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="220" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Jv4_3_DliBv_FP3jyJoI-38" value="処理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv4_3_DliBv_FP3jyJoI-39" value="処理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv4_3_DliBv_FP3jyJoI-40" value="処理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
