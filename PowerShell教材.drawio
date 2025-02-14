@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" modified="2024-10-29T13:17:36.399Z" version="24.7.1" etag="1WBEax9tNsIIv_y6f9qX" type="github" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.11" pages="8">
   <diagram name="コマンドレット命名" id="LV1n8qq-SurAGm2koKft">
     <mxGraphModel dx="780" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1109,6 +1109,55 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="phnIuNvxSs8D47ozVR5S" name="パイプ">
+    <mxGraphModel dx="496" dy="257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gz_w6DOkKLBN9-tbzeaa-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="230" y="258" width="246" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="gz_w6DOkKLBN9-tbzeaa-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF8000;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="120" y="258" width="105" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="gz_w6DOkKLBN9-tbzeaa-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF8000;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="400" y="258" width="15" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="gz_w6DOkKLBN9-tbzeaa-5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="484" y="258" width="72" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="gz_w6DOkKLBN9-tbzeaa-1" value="Get-ChildItem -File | ForEach-Object { (Get-Content $_.FullName)} | set-clipboard" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="250" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gz_w6DOkKLBN9-tbzeaa-6" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#FF8000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="177" y="258" as="sourcePoint" />
+            <mxPoint x="405" y="257" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="240" />
+              <mxPoint x="390" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gz_w6DOkKLBN9-tbzeaa-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#009900;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="344" y="257" as="sourcePoint" />
+            <mxPoint x="518" y="257" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="240" />
+              <mxPoint x="503" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gz_w6DOkKLBN9-tbzeaa-9" value="オブジェクトが$_として引き渡される" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gz_w6DOkKLBN9-tbzeaa-10" value="直前のパイプ処理のオブジェクトが引き渡される。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="220" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
