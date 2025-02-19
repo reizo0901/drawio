@@ -1113,7 +1113,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="phnIuNvxSs8D47ozVR5S" name="パイプ">
-    <mxGraphModel dx="417" dy="216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="584" dy="250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1237,8 +1237,8 @@
         <mxCell id="kMtVypzxW95CGQHJWxkv-6" value="ファイルの一覧を取得" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="121" y="502" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kMtVypzxW95CGQHJWxkv-7" value="「Extension」でグループ化" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
-          <mxGeometry x="230" y="502" width="120" height="20" as="geometry" />
+        <mxCell id="kMtVypzxW95CGQHJWxkv-7" value="「&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Extension&lt;/font&gt;」でグループ化" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="226" y="502" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kMtVypzxW95CGQHJWxkv-8" value="グループ化した情報を出力" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="364.5" y="504" width="125.5" height="20" as="geometry" />
@@ -1291,8 +1291,8 @@
         <mxCell id="kMtVypzxW95CGQHJWxkv-22" value="ファイルの一覧を取得" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="121" y="591" width="84" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kMtVypzxW95CGQHJWxkv-23" value="Nameに対して&#39;*.txt&#39; でフィルタリング" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
-          <mxGeometry x="207" y="591" width="173" height="19" as="geometry" />
+        <mxCell id="kMtVypzxW95CGQHJWxkv-23" value="「&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Name&lt;/font&gt;」に対して&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&#39;*.txt&#39;&lt;/font&gt; でフィルタリング" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="202" y="591" width="173" height="19" as="geometry" />
         </mxCell>
         <mxCell id="kMtVypzxW95CGQHJWxkv-25" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
           <mxGeometry x="124" y="589" width="77" height="3" as="geometry" />
