@@ -1429,7 +1429,7 @@
         <mxCell id="yDa2JXAocmv1VQuK-m-G-32" value="&lt;font color=&quot;#4d4d4d&quot;&gt;Get-ChildItem | Select-Object &lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;name&lt;/font&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;,&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;fullname&lt;/font&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;,&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;directoryname&lt;/font&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;,&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Extension&lt;/font&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;,&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;lastwritetime&lt;/font&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;,&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;length&lt;/font&gt;&lt;font color=&quot;#4d4d4d&quot;&gt; | Where-Object &lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Name&lt;/font&gt;&lt;font color=&quot;#4d4d4d&quot;&gt; &lt;/font&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;-Like&lt;/font&gt;&lt;font color=&quot;#4d4d4d&quot;&gt; &lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&#39;*.txt&#39;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="123" y="658" width="667" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yDa2JXAocmv1VQuK-m-G-35" value="123" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="yDa2JXAocmv1VQuK-m-G-35" value="引き渡し対象" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="285.5" y="635" width="68" height="15" as="geometry" />
         </mxCell>
         <mxCell id="yDa2JXAocmv1VQuK-m-G-36" value="" style="endArrow=block;html=1;rounded=0;endFill=1;strokeColor=#FF0000;" edge="1" parent="1">
@@ -1452,6 +1452,21 @@
               <mxPoint x="201.03" y="650" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yDa2JXAocmv1VQuK-m-G-54" value="引き渡すオブジェクトの項目を指定" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="210" y="688" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yDa2JXAocmv1VQuK-m-G-55" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=block;html=1;curved=0;rounded=0;endSize=6;startSize=8;endFill=1;strokeColor=#009900;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="469" y="664" as="sourcePoint" />
+            <mxPoint x="635" y="665" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="625.03" y="652" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yDa2JXAocmv1VQuK-m-G-56" value="選択したオブジェクトの項目を引き渡し" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="470" y="638" width="170" height="12.31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
