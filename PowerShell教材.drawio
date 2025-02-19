@@ -1113,7 +1113,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="phnIuNvxSs8D47ozVR5S" name="パイプ">
-    <mxGraphModel dx="627" dy="250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="753" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1429,13 +1429,13 @@
         <mxCell id="yDa2JXAocmv1VQuK-m-G-32" value="&lt;font color=&quot;#4d4d4d&quot;&gt;Get-ChildItem | Select-Object &lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;name&lt;/font&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;,&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;fullname&lt;/font&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;,&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;directoryname&lt;/font&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;,&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Extension&lt;/font&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;,&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;lastwritetime&lt;/font&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;,&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;length&lt;/font&gt;&lt;font color=&quot;#4d4d4d&quot;&gt; | Where-Object &lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Name&lt;/font&gt;&lt;font color=&quot;#4d4d4d&quot;&gt; &lt;/font&gt;&lt;font style=&quot;color: rgb(128, 128, 128);&quot;&gt;-Like&lt;/font&gt;&lt;font color=&quot;#4d4d4d&quot;&gt; &lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&#39;*.txt&#39;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="123" y="658" width="667" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yDa2JXAocmv1VQuK-m-G-35" value="グループ化対象" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="yDa2JXAocmv1VQuK-m-G-35" value="123" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="285.5" y="635" width="68" height="15" as="geometry" />
         </mxCell>
         <mxCell id="yDa2JXAocmv1VQuK-m-G-36" value="" style="endArrow=block;html=1;rounded=0;endFill=1;strokeColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="326" y="649" as="sourcePoint" />
-            <mxPoint x="329" y="665" as="targetPoint" />
+            <mxPoint x="315" y="650" as="sourcePoint" />
+            <mxPoint x="300" y="664" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yDa2JXAocmv1VQuK-m-G-50" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
