@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.13" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.14" pages="8">
   <diagram name="コマンドレット命名" id="LV1n8qq-SurAGm2koKft">
     <mxGraphModel dx="780" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1113,7 +1113,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="phnIuNvxSs8D47ozVR5S" name="パイプ">
-    <mxGraphModel dx="452" dy="307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1221,15 +1221,6 @@
               <mxPoint x="288" y="344" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="yq-NCTda2fNnwztUvr01-1" value="@{Name=&quot;DaysSinceCreation&quot;; Expression={((Get-Date) - ($_.CreationTime)).days}}" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="121" y="420" width="478" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="yq-NCTda2fNnwztUvr01-3" value="@{Name=&quot;項目名&quot;; Expression={データの内容}}" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="450" width="269" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="yq-NCTda2fNnwztUvr01-5" value="@{Name=&quot;DaysSinceCreation&quot;; Expression={((Get-Date) - ($_.CreationTime)).days}}" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="121" y="500" width="478" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
