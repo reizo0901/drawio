@@ -1130,7 +1130,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yDa2JXAocmv1VQuK-m-G-103" value="フィルタしたオブジェクト" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;fontColor=#FF8000;" vertex="1" parent="1">
-          <mxGeometry x="465" y="743" width="121" height="15" as="geometry" />
+          <mxGeometry x="465" y="740" width="121" height="15" as="geometry" />
         </mxCell>
         <mxCell id="yDa2JXAocmv1VQuK-m-G-101" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;fillColor=#B9E0A5;" vertex="1" parent="1">
           <mxGeometry x="475" y="770.06" width="77" height="13.94" as="geometry" />
@@ -1592,7 +1592,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yDa2JXAocmv1VQuK-m-G-156" value="フィルタしたオブジェクト" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;fontColor=#FF8000;" vertex="1" parent="1">
-          <mxGeometry x="461" y="852" width="121" height="15" as="geometry" />
+          <mxGeometry x="461" y="850" width="121" height="15" as="geometry" />
         </mxCell>
         <mxCell id="yDa2JXAocmv1VQuK-m-G-157" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;fillColor=#B9E0A5;" vertex="1" parent="1">
           <mxGeometry x="475" y="880.06" width="104" height="13.94" as="geometry" />
@@ -1703,7 +1703,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yDa2JXAocmv1VQuK-m-G-184" value="ソートしたオブジェクト" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;fontColor=#009900;" vertex="1" parent="1">
-          <mxGeometry x="574" y="852" width="121" height="15" as="geometry" />
+          <mxGeometry x="574" y="850" width="121" height="15" as="geometry" />
         </mxCell>
         <mxCell id="yDa2JXAocmv1VQuK-m-G-185" value="「&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Length&lt;/font&gt;」でソート" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="474" y="902" width="102" height="19" as="geometry" />
