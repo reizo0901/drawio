@@ -1831,7 +1831,7 @@
         <mxCell id="Avz3dSsbI1PcDTIlkOIZ-17" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
           <mxGeometry x="195" y="967" width="158" height="3" as="geometry" />
         </mxCell>
-        <mxCell id="Avz3dSsbI1PcDTIlkOIZ-18" value="&lt;font color=&quot;#4d4d4d&quot;&gt;@{Name=プロパティの名前; Expression={出力したい内容}}&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Avz3dSsbI1PcDTIlkOIZ-18" value="&lt;font color=&quot;#4d4d4d&quot;&gt;@{Name=&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;プロパティの名前&lt;/font&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;; Expression={&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;出力したい内容&lt;/font&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;}}&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="35" y="940" width="325" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Avz3dSsbI1PcDTIlkOIZ-21" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
