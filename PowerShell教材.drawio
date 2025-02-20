@@ -1717,7 +1717,7 @@
         <mxCell id="yDa2JXAocmv1VQuK-m-G-191" value="(F)出力系１" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="694" y="960" width="88" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yDa2JXAocmv1VQuK-m-G-193" value="(B)繰り返し処理" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="yDa2JXAocmv1VQuK-m-G-193" value="(B)制御処理" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="143" y="960" width="87" height="20" as="geometry" />
         </mxCell>
         <mxCell id="187s-0fNSwQtOoUKHMVN-1" value="(C)Get系コマンド" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
@@ -1735,7 +1735,7 @@
         <mxCell id="yDa2JXAocmv1VQuK-m-G-189" value="&lt;div&gt;Export-*&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Out-File&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Out-Host&lt;/div&gt;&lt;div&gt;Out-GridView&lt;/div&gt;&lt;div&gt;Out-Printer&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#FFE599;" parent="1" vertex="1">
           <mxGeometry x="694" y="980" width="93" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yDa2JXAocmv1VQuK-m-G-192" value="ForEach" style="rounded=0;whiteSpace=wrap;html=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#B9E0A5;" parent="1" vertex="1">
+        <mxCell id="yDa2JXAocmv1VQuK-m-G-192" value="ForEach&lt;div&gt;While&lt;/div&gt;&lt;div&gt;Do-While&lt;/div&gt;&lt;div&gt;Do-Until&lt;/div&gt;&lt;div&gt;&lt;div&gt;If ～ Else&lt;/div&gt;&lt;div&gt;Switch&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#B9E0A5;" parent="1" vertex="1">
           <mxGeometry x="143" y="980" width="90" height="150" as="geometry" />
         </mxCell>
         <mxCell id="187s-0fNSwQtOoUKHMVN-2" value="&lt;div&gt;Get-*&lt;/div&gt;Get-ChildItem&lt;div&gt;Get-Process&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
