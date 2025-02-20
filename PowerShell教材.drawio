@@ -1711,7 +1711,7 @@
         <mxCell id="yDa2JXAocmv1VQuK-m-G-186" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" parent="1" vertex="1">
           <mxGeometry x="475" y="899" width="103" height="3" as="geometry" />
         </mxCell>
-        <mxCell id="187s-0fNSwQtOoUKHMVN-33" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#97D077;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="187s-0fNSwQtOoUKHMVN-33" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#FFD966;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="1180" width="90" height="190" as="geometry" />
         </mxCell>
         <mxCell id="187s-0fNSwQtOoUKHMVN-34" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#97D077;strokeColor=none;" vertex="1" parent="1">
@@ -1721,7 +1721,7 @@
           <mxGeometry x="330" y="1180" width="90" height="190" as="geometry" />
         </mxCell>
         <mxCell id="187s-0fNSwQtOoUKHMVN-36" value="(B)制御処理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="129.5" y="1180" width="90.5" height="20" as="geometry" />
+          <mxGeometry x="129.75" y="1180" width="90.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="187s-0fNSwQtOoUKHMVN-37" value="(C)Getコマンド" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="230.5" y="1180" width="89" height="20" as="geometry" />
@@ -1753,7 +1753,7 @@
         <mxCell id="187s-0fNSwQtOoUKHMVN-48" value="(F)出力１" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="530" y="1180" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yDa2JXAocmv1VQuK-m-G-192" value="&lt;div&gt;For&lt;/div&gt;ForEach&lt;div&gt;While&lt;/div&gt;&lt;div&gt;Do-While&lt;/div&gt;&lt;div&gt;Do-Until&lt;/div&gt;&lt;div&gt;&lt;div&gt;If ～ Else&lt;/div&gt;&lt;div&gt;Switch&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#B9E0A5;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="yDa2JXAocmv1VQuK-m-G-192" value="&lt;div&gt;For&lt;/div&gt;ForEach&lt;div&gt;While&lt;/div&gt;&lt;div&gt;Do-While&lt;/div&gt;&lt;div&gt;Do-Until&lt;/div&gt;&lt;div&gt;&lt;div&gt;If ～ Else&lt;/div&gt;&lt;div&gt;Switch&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#FFE599;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="130" y="1200" width="90" height="200" as="geometry" />
         </mxCell>
         <mxCell id="187s-0fNSwQtOoUKHMVN-2" value="&lt;div&gt;Get-*&lt;/div&gt;Get-ChildItem&lt;div&gt;Get-Process&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=none;fillColor=#B9E0A5;verticalAlign=top;" vertex="1" parent="1">
