@@ -1780,7 +1780,7 @@
         <mxCell id="187s-0fNSwQtOoUKHMVN-62" value="画面出力またはファイル出力する。その後にパイプ処理を追加できない。(A)変数、(D)Setコマンドと併用不可。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="60" y="1499" width="560" height="11" as="geometry" />
         </mxCell>
-        <mxCell id="187s-0fNSwQtOoUKHMVN-65" value="(A)変数、(D)Setコマンド、(F)出力１は一緒に記述できない。出来たとしても効果がない。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="187s-0fNSwQtOoUKHMVN-65" value="(A)変数、(D)Setコマンド、(F)出力１は一緒に記述できない。優先順位は(D)&amp;gt;(F)&amp;gt;(A)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="60" y="1420" width="560" height="9" as="geometry" />
         </mxCell>
         <mxCell id="187s-0fNSwQtOoUKHMVN-74" value="" style="group" vertex="1" connectable="0" parent="1">
