@@ -1113,7 +1113,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="phnIuNvxSs8D47ozVR5S" name="パイプ">
-    <mxGraphModel dx="931" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="771" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1711,15 +1711,6 @@
         <mxCell id="yDa2JXAocmv1VQuK-m-G-186" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" parent="1" vertex="1">
           <mxGeometry x="475" y="899" width="103" height="3" as="geometry" />
         </mxCell>
-        <mxCell id="187s-0fNSwQtOoUKHMVN-25" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#FFD966;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1180" width="90" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="187s-0fNSwQtOoUKHMVN-32" value="(A)変数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="30.5" y="1180" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="187s-0fNSwQtOoUKHMVN-4" value="$変数" style="rounded=0;whiteSpace=wrap;html=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#FFE599;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1200" width="90" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="187s-0fNSwQtOoUKHMVN-33" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#FF8000;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="1180" width="90" height="190" as="geometry" />
         </mxCell>
@@ -1782,6 +1773,15 @@
         </mxCell>
         <mxCell id="yDa2JXAocmv1VQuK-m-G-188" value="Select-Object&lt;div&gt;Where-Object&lt;/div&gt;&lt;div&gt;Sort-Object&lt;/div&gt;&lt;div&gt;Measure-Object&lt;/div&gt;&lt;div&gt;Group-Object&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=none;fillColor=#E6E6E6;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="530" y="1200" width="90" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="187s-0fNSwQtOoUKHMVN-25" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#FFD966;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1180" width="90" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="187s-0fNSwQtOoUKHMVN-32" value="(A)変数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="30.5" y="1180" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="187s-0fNSwQtOoUKHMVN-4" value="$変数" style="rounded=0;whiteSpace=wrap;html=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#FFE599;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1200" width="90" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
