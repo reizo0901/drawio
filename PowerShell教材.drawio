@@ -1822,6 +1822,9 @@
         <mxCell id="187s-0fNSwQtOoUKHMVN-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="1480" width="20" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="187s-0fNSwQtOoUKHMVN-85" value="※(F)出力１にWrite-*とありますが、Write-Outputだけ処理内容が異なるため、(G)出力２に含めています。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1520" width="560" height="11" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
