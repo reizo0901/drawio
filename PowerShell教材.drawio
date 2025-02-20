@@ -1717,7 +1717,7 @@
         <mxCell id="187s-0fNSwQtOoUKHMVN-34" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#CCCCCC;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="1180" width="90" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="187s-0fNSwQtOoUKHMVN-35" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#CCCCCC;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="187s-0fNSwQtOoUKHMVN-35" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#FFD966;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="330" y="1180" width="90" height="190" as="geometry" />
         </mxCell>
         <mxCell id="187s-0fNSwQtOoUKHMVN-36" value="(B)制御処理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="1">
@@ -1765,7 +1765,7 @@
         <mxCell id="187s-0fNSwQtOoUKHMVN-2" value="&lt;div&gt;Get-*&lt;/div&gt;Get-ChildItem&lt;div&gt;Get-Process&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=none;fillColor=#E6E6E6;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="230" y="1200" width="90" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="187s-0fNSwQtOoUKHMVN-22" value="&lt;div&gt;Set-*&lt;/div&gt;Set-ChildItem&lt;div&gt;Set-Process&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=none;fillColor=#E6E6E6;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="187s-0fNSwQtOoUKHMVN-22" value="&lt;div&gt;Set-*&lt;/div&gt;Set-ChildItem&lt;div&gt;Set-Process&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=none;fillColor=#FFE599;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="330" y="1200" width="90" height="200" as="geometry" />
         </mxCell>
         <mxCell id="187s-0fNSwQtOoUKHMVN-5" value="ForEach-Object" style="rounded=0;whiteSpace=wrap;html=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#E6E6E6;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
