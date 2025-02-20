@@ -1792,7 +1792,7 @@
         <mxCell id="187s-0fNSwQtOoUKHMVN-76" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A9C4EB;strokeColor=none;" vertex="1" parent="187s-0fNSwQtOoUKHMVN-74">
           <mxGeometry y="14" width="20" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="187s-0fNSwQtOoUKHMVN-82" value="オブジェクトを出力する。パイプ処理で何度も使うことが可能。(b)制御処理は処理内容による。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="187s-0fNSwQtOoUKHMVN-82" value="スクリプトブロックが作成可能。処理させる内容によっては文字列やオブジェクトで出力することが可能。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="60" y="1440" width="560" height="10" as="geometry" />
         </mxCell>
         <mxCell id="187s-0fNSwQtOoUKHMVN-83" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=none;" vertex="1" parent="1">
@@ -1807,7 +1807,7 @@
         <mxCell id="187s-0fNSwQtOoUKHMVN-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9E0A5;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="1460" width="20" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="187s-0fNSwQtOoUKHMVN-60" value="オブジェクトを出力する。パイプ処理で何度も使うことが可能。(b)制御処理は処理内容による。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="187s-0fNSwQtOoUKHMVN-60" value="オブジェクトを出力する。パイプ処理で何度も使うことが可能。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="60" y="1460" width="560" height="10" as="geometry" />
         </mxCell>
         <mxCell id="187s-0fNSwQtOoUKHMVN-78" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=none;" vertex="1" parent="1">
