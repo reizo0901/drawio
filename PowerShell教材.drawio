@@ -161,7 +161,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BorZKG-VS0TfqSGUH6tz" name="オブジェクト">
-    <mxGraphModel dx="780" dy="461" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="717" dy="470" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -342,10 +342,10 @@
         <mxCell id="1tpWhOUXMTHyLQTE0h52-70" value="オブジェクト" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=default;gradientColor=none;fontStyle=1;fontColor=#000000;verticalAlign=middle;align=center;shadow=1;" parent="1tpWhOUXMTHyLQTE0h52-67" vertex="1">
           <mxGeometry x="6" y="6" width="80" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="1tpWhOUXMTHyLQTE0h52-71" value="画面表示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1tpWhOUXMTHyLQTE0h52-71" value="処理結果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="480" y="160" width="96" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="1tpWhOUXMTHyLQTE0h52-72" value="画面表示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1tpWhOUXMTHyLQTE0h52-72" value="処理結果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="480" y="296" width="96" height="32" as="geometry" />
         </mxCell>
         <mxCell id="1tpWhOUXMTHyLQTE0h52-75" value="結果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FF3333;fontStyle=1" parent="1" vertex="1">
