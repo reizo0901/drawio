@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.15" pages="8">
   <diagram name="コマンドレット命名" id="LV1n8qq-SurAGm2koKft">
-    <mxGraphModel dx="780" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="594" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,6 +75,36 @@
         </mxCell>
         <mxCell id="B8-4LZd2MhFMnUw7_WLy-27" value="コマンドレットの形式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Helvetica;fontStyle=0" parent="B8-4LZd2MhFMnUw7_WLy-29" vertex="1">
           <mxGeometry x="189" y="12" width="247" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-11" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="272" y="482" width="36" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-12" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="318" y="482" width="36" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-13" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="295" y="549" width="36" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-14" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="330" y="522" width="36" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-15" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="259" y="521" width="36" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-17" value="コマンドレット" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="364" y="482" width="100" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-19" value="パイプライン" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="370" y="522" width="100" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-20" value="スクリプト" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="272" y="589" width="100" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-21" value="リモート管理" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="190" y="516" width="100" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-22" value="モジュール" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="218" y="466" width="100" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
