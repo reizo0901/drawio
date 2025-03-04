@@ -342,9 +342,6 @@
         <mxCell id="JpaSXZsq5uS-gjckuc5A-2" value="パイプライン" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="323" y="327" width="74" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="JpaSXZsq5uS-gjckuc5A-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="398" y="296" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
