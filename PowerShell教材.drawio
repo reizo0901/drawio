@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.15" pages="8">
   <diagram name="コマンドレット命名" id="LV1n8qq-SurAGm2koKft">
-    <mxGraphModel dx="416" dy="273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="495" dy="325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,10 +148,10 @@
         <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-39" value="PowerShellでは、複数のコマンドレットを組み合わせてスクリプトを作成することができます。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="279.7" y="550" width="230.3" height="25.5" as="geometry" />
         </mxCell>
-        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-40" value="PowerShellは、リモートコンピュータに対してのコマンドを実行する機能を提供しており、大規模な環境での管理を容易にします。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-40" value="PowerShellは、リモートコンピュータに対してのコマンドを実行する機能を提供しており、一元管理などが容易に行えます。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="279.7" y="582" width="230.3" height="25.5" as="geometry" />
         </mxCell>
-        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-41" value="&lt;div&gt;PowerShellは、機能を拡張するためのモジュールをサポートしています。&lt;/div&gt;&lt;div&gt;特定のアプリケーションやサービスに対する管理機能を追加することが&lt;/div&gt;&lt;div&gt;できます。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-41" value="&lt;div&gt;PowerShellは、機能を拡張するためのモジュールをサポートしています。&lt;/div&gt;&lt;div&gt;特定のアプリケーションやサービスに対する管理機能を追加して利用する&lt;br&gt;&lt;/div&gt;&lt;div&gt;ことができます。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="279.7" y="617" width="240.3" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-42" value="PowerShell構成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#3399ff, #ededed);fontStyle=1" vertex="1" parent="1">
