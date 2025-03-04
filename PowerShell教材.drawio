@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.15" pages="8">
   <diagram name="コマンドレット命名" id="LV1n8qq-SurAGm2koKft">
-    <mxGraphModel dx="594" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="495" dy="325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-25" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=19;strokeColor=#CCE5FF;" vertex="1" parent="1">
-          <mxGeometry x="253.53" y="494.5" width="105.03" height="104.5" as="geometry" />
+          <mxGeometry x="81.53" y="505" width="105.03" height="104.5" as="geometry" />
         </mxCell>
         <mxCell id="B8-4LZd2MhFMnUw7_WLy-29" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="68" y="80" width="677" height="162" as="geometry" />
@@ -80,37 +80,85 @@
           <mxGeometry x="189" y="12" width="247" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-11" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#FF6666;strokeColor=#4D4D4D;" vertex="1" parent="1">
-          <mxGeometry x="258.4" y="491" width="25.2" height="28" as="geometry" />
+          <mxGeometry x="86.39999999999998" y="501.5" width="25.2" height="28" as="geometry" />
         </mxCell>
         <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-12" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#FF9933;strokeColor=#4D4D4D;fontColor=#FF9933;" vertex="1" parent="1">
-          <mxGeometry x="327" y="490" width="25.2" height="28" as="geometry" />
+          <mxGeometry x="155" y="500.5" width="25.2" height="28" as="geometry" />
         </mxCell>
         <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-13" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#7EA6E0;strokeColor=#4D4D4D;" vertex="1" parent="1">
-          <mxGeometry x="294" y="584" width="27.9" height="31" as="geometry" />
+          <mxGeometry x="122" y="594.5" width="27.9" height="31" as="geometry" />
         </mxCell>
         <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-14" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#66CC00;strokeColor=#4D4D4D;" vertex="1" parent="1">
-          <mxGeometry x="346.1" y="552" width="25.2" height="28" as="geometry" />
+          <mxGeometry x="174.10000000000002" y="562.5" width="25.2" height="28" as="geometry" />
         </mxCell>
         <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-15" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#B5739D;strokeColor=#4D4D4D;" vertex="1" parent="1">
-          <mxGeometry x="239.4" y="550" width="26.1" height="29" as="geometry" />
+          <mxGeometry x="67.4" y="560.5" width="26.1" height="29" as="geometry" />
         </mxCell>
         <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-17" value="パイプライン" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;fontColor=#FF9933;" vertex="1" parent="1">
-          <mxGeometry x="308" y="519" width="62" height="18" as="geometry" />
+          <mxGeometry x="136" y="529.5" width="62" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-19" value="スクリプト" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;fontColor=#66CC00;" vertex="1" parent="1">
-          <mxGeometry x="326" y="582" width="67.1" height="16" as="geometry" />
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-19" value="スクリプト" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="154" y="592.5" width="67.1" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-20" value="リモート管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;fontColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="274.6" y="616" width="59.4" height="16" as="geometry" />
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-20" value="リモート管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;fontColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="102.60000000000002" y="626.5" width="59.4" height="16" as="geometry" />
         </mxCell>
         <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-21" value="モジュール" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;fontColor=#B5739D;" vertex="1" parent="1">
-          <mxGeometry x="222" y="580" width="60" height="16" as="geometry" />
+          <mxGeometry x="50" y="590.5" width="60" height="16" as="geometry" />
         </mxCell>
         <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-22" value="コマンドレット" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;fontColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="236" y="520" width="68.4" height="16" as="geometry" />
+          <mxGeometry x="64" y="530.5" width="68.4" height="16" as="geometry" />
         </mxCell>
         <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-24" value="PowerShell" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;fontColor=#3399FF;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="260.95" y="532" width="91.05" height="30" as="geometry" />
+          <mxGeometry x="88.94999999999999" y="543.5" width="91.05" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-26" value="コマンドレット" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="280" y="478" width="68.4" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-27" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#FF6666;strokeColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="252.39999999999998" y="478" width="25.2" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-28" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#FF9933;strokeColor=#4D4D4D;fontColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="252.4" y="508" width="25.2" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-29" value="パイプライン" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;fontColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="280" y="508" width="62" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-30" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#66CC00;strokeColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="252.40000000000003" y="540" width="25.2" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-31" value="スクリプト" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="280" y="540" width="67.1" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-33" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#7EA6E0;strokeColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="249.7" y="572" width="27.9" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-34" value="リモート管理" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;fontColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="574" width="59.4" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-35" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#B5739D;strokeColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="249.70000000000002" y="606" width="26.1" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-36" value="モジュール" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontStyle=1;fontColor=#B5739D;" vertex="1" parent="1">
+          <mxGeometry x="279.7" y="605" width="60" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-37" value="PowerShellの基本的な機能は、コマンドレットと&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;呼ばれる小さなプログラムによって提供されます。&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="279.7" y="486.5" width="230.3" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-38" value="PowerShellでは、コマンドレットの出力を次のコマンドレットの入力として使用することが出来るパイプラインという機能があります。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="279.7" y="517" width="230.3" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-39" value="PowerShellでは、複数のコマンドレットを組み合わせてスクリプトを作成し、再利用可能な自動化タスクを構築できます。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="279.7" y="550" width="230.3" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-40" value="PowerShellは、リモートコンピュータに対してのコマンドを実行する機能を提供しており、大規模な環境での管理を容易にします。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="279.7" y="582" width="230.3" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-41" value="&lt;div&gt;PowerShellは、機能を拡張するためのモジュールをサポートしています。&lt;/div&gt;&lt;div&gt;特定のアプリケーションやサービスに対する管理機能を追加することが&lt;/div&gt;&lt;div&gt;できます。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="279.7" y="617" width="240.3" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOCLwrPQ3-sQ1PD4EZns-42" value="PowerShell" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#3399ff, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="72.4" y="440" width="137.6" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
