@@ -335,12 +335,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yC12qOVJP6hFQjA72Qu2-26" value="処理結果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="256" y="446" width="96" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="yC12qOVJP6hFQjA72Qu2-27" value="処理結果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="256" y="582" width="96" height="16" as="geometry" />
-        </mxCell>
         <mxCell id="yC12qOVJP6hFQjA72Qu2-39" value="●PowerShell" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="130" y="506" width="92" height="16" as="geometry" />
         </mxCell>
@@ -365,11 +359,29 @@
             <mxPoint x="247.58" y="392" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yC12qOVJP6hFQjA72Qu2-12" value="文字列" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=none;gradientColor=none;fontStyle=1;fontColor=#000000;verticalAlign=middle;align=center;shadow=1;shadowBlur=0;shadowOffsetY=3;shadowOpacity=50;shadowOffsetX=2;" vertex="1" parent="1">
-          <mxGeometry x="176" y="414" width="80" height="16" as="geometry" />
+        <mxCell id="yC12qOVJP6hFQjA72Qu2-44" value="オブジェクト" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=none;gradientColor=none;fontStyle=1;fontColor=#000000;verticalAlign=middle;align=center;shadow=1;shadowBlur=0;shadowOffsetY=3;shadowOpacity=50;shadowOffsetX=2;" vertex="1" parent="1">
+          <mxGeometry x="258" y="582" width="80" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="yC12qOVJP6hFQjA72Qu2-38" value="オブジェクト" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=none;gradientColor=none;fontStyle=1;fontColor=#000000;verticalAlign=middle;align=center;shadow=1;shadowBlur=0;shadowOffsetY=3;shadowOpacity=50;shadowOffsetX=2;" vertex="1" parent="1">
-          <mxGeometry x="176" y="550" width="80" height="16" as="geometry" />
+        <mxCell id="yC12qOVJP6hFQjA72Qu2-45" value="文字列" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=none;gradientColor=none;fontStyle=1;fontColor=#000000;verticalAlign=middle;align=center;shadow=1;shadowBlur=0;shadowOffsetY=3;shadowOpacity=50;shadowOffsetX=2;" vertex="1" parent="1">
+          <mxGeometry x="256" y="446" width="80" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="yC12qOVJP6hFQjA72Qu2-46" value="出力結果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="486" y="327" width="74" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="yC12qOVJP6hFQjA72Qu2-47" value="結果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="482" y="190" width="74" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="yC12qOVJP6hFQjA72Qu2-48" value="出力結果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="259" y="468" width="74" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="yC12qOVJP6hFQjA72Qu2-49" value="出力結果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="261" y="604" width="74" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="yC12qOVJP6hFQjA72Qu2-50" value="コマンド実行" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="154" y="468" width="74" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="yC12qOVJP6hFQjA72Qu2-51" value="コマンド実行" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="154" y="604" width="74" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
