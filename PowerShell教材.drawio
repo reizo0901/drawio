@@ -190,16 +190,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OKib9v1Q8HF2tG7s9Y1B-19" value="コマンドレット" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="OKib9v1Q8HF2tG7s9Y1B-19" value="コマンドレット" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;fontColor=#000000;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="144" y="304" width="96" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="OKib9v1Q8HF2tG7s9Y1B-32" value="コマンド" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="OKib9v1Q8HF2tG7s9Y1B-32" value="コマンド" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;fontColor=#000000;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="144" y="168" width="96" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="OKib9v1Q8HF2tG7s9Y1B-35" value="コマンド" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="OKib9v1Q8HF2tG7s9Y1B-35" value="コマンド" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;fontColor=#000000;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="256" y="168" width="96" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="OKib9v1Q8HF2tG7s9Y1B-37" value="コマンド" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="OKib9v1Q8HF2tG7s9Y1B-37" value="コマンド" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;fontColor=#000000;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="368" y="168" width="96" height="16" as="geometry" />
         </mxCell>
         <mxCell id="1tpWhOUXMTHyLQTE0h52-32" value="文字列" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=none;gradientColor=none;fontStyle=1;fontColor=#000000;verticalAlign=middle;align=center;shadow=1;shadowBlur=0;shadowOffsetY=3;shadowOpacity=50;shadowOffsetX=2;" parent="1" vertex="1">
@@ -247,10 +247,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1tpWhOUXMTHyLQTE0h52-45" value="コマンドレット" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="1tpWhOUXMTHyLQTE0h52-45" value="コマンドレット" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;fontColor=#000000;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="256" y="304" width="96" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="1tpWhOUXMTHyLQTE0h52-46" value="コマンドレット" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="1tpWhOUXMTHyLQTE0h52-46" value="コマンドレット" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;fontColor=#000000;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="368" y="304" width="96" height="16" as="geometry" />
         </mxCell>
         <mxCell id="1tpWhOUXMTHyLQTE0h52-52" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
