@@ -752,7 +752,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="クラス" id="ANDznh3XXhM0J9vqmtlq">
-    <mxGraphModel dx="725" dy="444" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="566" dy="347" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JZGJxhiENXGtC00-CpB7-0" />
         <mxCell id="JZGJxhiENXGtC00-CpB7-1" parent="JZGJxhiENXGtC00-CpB7-0" />
@@ -911,6 +911,39 @@
         </mxCell>
         <mxCell id="VWBdSnfvONrWbHNa6RA4-68" value="男" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFD966;" vertex="1" parent="JZGJxhiENXGtC00-CpB7-1">
           <mxGeometry x="435" y="355" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VWBdSnfvONrWbHNa6RA4-69" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;strokeColor=#7EA6E0;fillColor=#7EA6E0;" edge="1" parent="JZGJxhiENXGtC00-CpB7-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="217.5" as="sourcePoint" />
+            <mxPoint x="170" y="172.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWBdSnfvONrWbHNa6RA4-70" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;strokeColor=#7EA6E0;fillColor=#7EA6E0;" edge="1" parent="JZGJxhiENXGtC00-CpB7-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="267.5" as="sourcePoint" />
+            <mxPoint x="170" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWBdSnfvONrWbHNa6RA4-71" value="インスタンス化&lt;div&gt;(実体化)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="JZGJxhiENXGtC00-CpB7-1">
+          <mxGeometry x="100" y="230" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VWBdSnfvONrWbHNa6RA4-72" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;strokeColor=#7EA6E0;fillColor=#7EA6E0;" edge="1" parent="JZGJxhiENXGtC00-CpB7-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="103" as="sourcePoint" />
+            <mxPoint x="340" y="103" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VWBdSnfvONrWbHNa6RA4-73" value="情報格納" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="JZGJxhiENXGtC00-CpB7-1">
+          <mxGeometry x="340" y="60" width="77.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VWBdSnfvONrWbHNa6RA4-74" value="情報格納" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="JZGJxhiENXGtC00-CpB7-1">
+          <mxGeometry x="340" y="295" width="77.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VWBdSnfvONrWbHNa6RA4-75" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;strokeColor=#7EA6E0;fillColor=#7EA6E0;" edge="1" parent="JZGJxhiENXGtC00-CpB7-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="338" as="sourcePoint" />
+            <mxPoint x="340" y="338" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
