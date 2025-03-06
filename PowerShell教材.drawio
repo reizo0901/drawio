@@ -752,7 +752,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="クラス" id="ANDznh3XXhM0J9vqmtlq">
-    <mxGraphModel dx="566" dy="347" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1524" dy="427" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JZGJxhiENXGtC00-CpB7-0" />
         <mxCell id="JZGJxhiENXGtC00-CpB7-1" parent="JZGJxhiENXGtC00-CpB7-0" />
@@ -944,6 +944,18 @@
             <mxPoint x="420" y="338" as="sourcePoint" />
             <mxPoint x="340" y="338" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VWBdSnfvONrWbHNa6RA4-76" value="①生物の情報を格納するオブジェクトが必要になったので生物クラスを基に、&lt;div&gt;作成します。&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="JZGJxhiENXGtC00-CpB7-1">
+          <mxGeometry x="-15" y="405" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VWBdSnfvONrWbHNa6RA4-77" value="②同じ生物クラス(設計書)から、同じ構造のオブジェクトが必要な分だけ作成されます。" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="JZGJxhiENXGtC00-CpB7-1">
+          <mxGeometry x="162.5" y="470" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VWBdSnfvONrWbHNa6RA4-78" value="④プロパティ(情報)に対して、メソッドによる操作が可能となります。" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="JZGJxhiENXGtC00-CpB7-1">
+          <mxGeometry x="162.5" y="500" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VWBdSnfvONrWbHNa6RA4-79" value="③生物オブジェクトが作成されたので、&lt;div&gt;データを格納します。&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="JZGJxhiENXGtC00-CpB7-1">
+          <mxGeometry x="380" y="150" width="185" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
