@@ -421,7 +421,7 @@
           <mxGeometry x="512" y="420" width="150" height="16" as="geometry" />
         </mxCell>
         <mxCell id="ZgcrP19wyNjAFmWWIYxC-13" value="コマンドの結果がオブジェクトなので、同じクラスを&lt;div&gt;使ったオブジェクトに格納されています。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="512" y="580" width="150" height="16" as="geometry" />
+          <mxGeometry x="512" y="583" width="150" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
