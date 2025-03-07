@@ -766,7 +766,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="クラス" id="ANDznh3XXhM0J9vqmtlq">
-    <mxGraphModel dx="2055" dy="751" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2318" dy="911" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JZGJxhiENXGtC00-CpB7-0" />
         <mxCell id="JZGJxhiENXGtC00-CpB7-1" parent="JZGJxhiENXGtC00-CpB7-0" />
@@ -1049,19 +1049,19 @@
         <mxCell id="keMqY6-0_Auv7MFwdn-f-51" value="メソッド" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="JZGJxhiENXGtC00-CpB7-1">
           <mxGeometry x="260" y="515" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="keMqY6-0_Auv7MFwdn-f-43" value="名前" style="text;strokeColor=none;fillColor=#97D077;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=19;fontStyle=0;container=0;" vertex="1" parent="JZGJxhiENXGtC00-CpB7-1">
+        <mxCell id="keMqY6-0_Auv7MFwdn-f-43" value="名前" style="text;strokeColor=none;fillColor=#97D077;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=19;fontStyle=0;container=0;" vertex="1" parent="JZGJxhiENXGtC00-CpB7-1">
           <mxGeometry x="-160" y="586.25" width="55" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="keMqY6-0_Auv7MFwdn-f-45" value="年齢" style="text;strokeColor=none;fillColor=#97D077;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=19;fontStyle=0;container=0;" vertex="1" parent="JZGJxhiENXGtC00-CpB7-1">
+        <mxCell id="keMqY6-0_Auv7MFwdn-f-45" value="年齢" style="text;strokeColor=none;fillColor=#97D077;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=19;fontStyle=0;container=0;" vertex="1" parent="JZGJxhiENXGtC00-CpB7-1">
           <mxGeometry x="-160" y="646.25" width="55" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="keMqY6-0_Auv7MFwdn-f-46" value="性別" style="text;strokeColor=none;fillColor=#97D077;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=19;fontStyle=0;container=0;" vertex="1" parent="JZGJxhiENXGtC00-CpB7-1">
+        <mxCell id="keMqY6-0_Auv7MFwdn-f-46" value="性別" style="text;strokeColor=none;fillColor=#97D077;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=19;fontStyle=0;container=0;" vertex="1" parent="JZGJxhiENXGtC00-CpB7-1">
           <mxGeometry x="-160" y="706.25" width="55" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="keMqY6-0_Auv7MFwdn-f-47" value="身長" style="text;strokeColor=none;fillColor=#97D077;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=19;fontStyle=0;container=0;" vertex="1" parent="JZGJxhiENXGtC00-CpB7-1">
+        <mxCell id="keMqY6-0_Auv7MFwdn-f-47" value="身長" style="text;strokeColor=none;fillColor=#97D077;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=19;fontStyle=0;container=0;" vertex="1" parent="JZGJxhiENXGtC00-CpB7-1">
           <mxGeometry x="-160" y="768.75" width="55" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="keMqY6-0_Auv7MFwdn-f-48" value="体重" style="text;strokeColor=none;fillColor=#97D077;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=19;fontStyle=0;container=0;" vertex="1" parent="JZGJxhiENXGtC00-CpB7-1">
+        <mxCell id="keMqY6-0_Auv7MFwdn-f-48" value="体重" style="text;strokeColor=none;fillColor=#97D077;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=19;fontStyle=0;container=0;" vertex="1" parent="JZGJxhiENXGtC00-CpB7-1">
           <mxGeometry x="-160" y="830" width="55" height="25" as="geometry" />
         </mxCell>
         <mxCell id="keMqY6-0_Auv7MFwdn-f-52" value="技研太郎" style="text;strokeColor=none;fillColor=#FFD966;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=17;fontStyle=0;container=0;" vertex="1" parent="JZGJxhiENXGtC00-CpB7-1">
@@ -1082,10 +1082,10 @@
         <mxCell id="keMqY6-0_Auv7MFwdn-f-55" value="男" style="text;strokeColor=none;fillColor=#FFD966;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=17;fontStyle=0;container=0;" vertex="1" parent="keMqY6-0_Auv7MFwdn-f-64">
           <mxGeometry y="61" width="78" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="keMqY6-0_Auv7MFwdn-f-56" value="176cm" style="text;strokeColor=none;fillColor=#FFD966;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=17;fontStyle=0;container=0;" vertex="1" parent="keMqY6-0_Auv7MFwdn-f-64">
+        <mxCell id="keMqY6-0_Auv7MFwdn-f-56" value="１７６cm" style="text;strokeColor=none;fillColor=#FFD966;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=17;fontStyle=0;container=0;" vertex="1" parent="keMqY6-0_Auv7MFwdn-f-64">
           <mxGeometry y="125.25" width="78" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="keMqY6-0_Auv7MFwdn-f-58" value="74kg" style="text;strokeColor=none;fillColor=#FFD966;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=17;fontStyle=0;container=0;" vertex="1" parent="keMqY6-0_Auv7MFwdn-f-64">
+        <mxCell id="keMqY6-0_Auv7MFwdn-f-58" value="７４kg" style="text;strokeColor=none;fillColor=#FFD966;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=17;fontStyle=0;container=0;" vertex="1" parent="keMqY6-0_Auv7MFwdn-f-64">
           <mxGeometry y="184" width="78" height="25" as="geometry" />
         </mxCell>
         <mxCell id="keMqY6-0_Auv7MFwdn-f-67" value="データ" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#FFFFFF;fontStyle=0" vertex="1" parent="JZGJxhiENXGtC00-CpB7-1">
