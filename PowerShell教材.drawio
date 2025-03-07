@@ -960,7 +960,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VWBdSnfvONrWbHNa6RA4-76" value="①生物の情報を格納するオブジェクトが必要になったので生物クラスを基に、&lt;div&gt;作成します。&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
-          <mxGeometry x="-60" y="485" width="185" height="45" as="geometry" />
+          <mxGeometry x="-35" y="392.5" width="185" height="45" as="geometry" />
         </mxCell>
         <mxCell id="VWBdSnfvONrWbHNa6RA4-77" value="②同じ生物クラス(設計書)から、同じ構造のオブジェクトが必要な分だけ作成されます。" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
           <mxGeometry x="162.5" y="490" width="185" height="30" as="geometry" />
