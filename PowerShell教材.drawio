@@ -788,7 +788,7 @@
         <mxCell id="VWBdSnfvONrWbHNa6RA4-4" value="名前" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#97D077;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
           <mxGeometry x="-5" y="85" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VWBdSnfvONrWbHNa6RA4-5" value="種族" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#97D077;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
+        <mxCell id="VWBdSnfvONrWbHNa6RA4-5" value="年齢" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#97D077;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
           <mxGeometry x="-5" y="110" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VWBdSnfvONrWbHNa6RA4-6" value="性別" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#97D077;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
@@ -830,7 +830,7 @@
         <mxCell id="VWBdSnfvONrWbHNa6RA4-19" value="名前" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#97D077;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
           <mxGeometry x="210" y="85" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VWBdSnfvONrWbHNa6RA4-20" value="種族" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#97D077;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
+        <mxCell id="VWBdSnfvONrWbHNa6RA4-20" value="年齢" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#97D077;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
           <mxGeometry x="210" y="110" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VWBdSnfvONrWbHNa6RA4-21" value="性別" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#97D077;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
@@ -854,13 +854,13 @@
         <mxCell id="VWBdSnfvONrWbHNa6RA4-32" value="〜" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0;rotation=90;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
           <mxGeometry x="227.5" y="195" width="25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VWBdSnfvONrWbHNa6RA4-33" value="山田太郎" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#FFD966;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
+        <mxCell id="VWBdSnfvONrWbHNa6RA4-33" value="技研太郎" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#FFD966;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
           <mxGeometry x="275" y="85" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VWBdSnfvONrWbHNa6RA4-34" value="人間" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#FFD966;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
+        <mxCell id="VWBdSnfvONrWbHNa6RA4-34" value="４０歳" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#FFD966;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
           <mxGeometry x="275" y="110" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VWBdSnfvONrWbHNa6RA4-35" value="男" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#FFD966;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
+        <mxCell id="VWBdSnfvONrWbHNa6RA4-35" value="男性" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#FFD966;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
           <mxGeometry x="275" y="135" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VWBdSnfvONrWbHNa6RA4-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4D4D4D;fontStyle=0;strokeColor=none;arcSize=5;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
@@ -890,13 +890,13 @@
         <mxCell id="VWBdSnfvONrWbHNa6RA4-45" value="〜" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0;rotation=90;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
           <mxGeometry x="227.5" y="400" width="25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VWBdSnfvONrWbHNa6RA4-46" value="ゴブ太" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#FFD966;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
+        <mxCell id="VWBdSnfvONrWbHNa6RA4-46" value="技研花子" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#FFD966;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
           <mxGeometry x="275" y="290" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VWBdSnfvONrWbHNa6RA4-47" value="ゴブリン" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#FFD966;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
+        <mxCell id="VWBdSnfvONrWbHNa6RA4-47" value="２４歳" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#FFD966;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
           <mxGeometry x="275" y="315" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VWBdSnfvONrWbHNa6RA4-48" value="男" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#FFD966;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
+        <mxCell id="VWBdSnfvONrWbHNa6RA4-48" value="女性" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#FFD966;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
           <mxGeometry x="275" y="340" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VWBdSnfvONrWbHNa6RA4-49" value="生物クラスのオブジェクト(2)" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
@@ -914,10 +914,10 @@
         <mxCell id="VWBdSnfvONrWbHNa6RA4-60" value="山田太郎" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#FFD966;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
           <mxGeometry x="505" y="85" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VWBdSnfvONrWbHNa6RA4-61" value="人間" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#FFD966;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
+        <mxCell id="VWBdSnfvONrWbHNa6RA4-61" value="４０歳" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#FFD966;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
           <mxGeometry x="505" y="110" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VWBdSnfvONrWbHNa6RA4-62" value="男" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#FFD966;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
+        <mxCell id="VWBdSnfvONrWbHNa6RA4-62" value="男性" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#FFD966;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
           <mxGeometry x="505" y="135" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VWBdSnfvONrWbHNa6RA4-63" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4D4D4D;fontStyle=0;strokeColor=none;arcSize=8;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
@@ -929,13 +929,13 @@
         <mxCell id="VWBdSnfvONrWbHNa6RA4-65" value="情報取得(2)" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
           <mxGeometry x="500" y="250" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VWBdSnfvONrWbHNa6RA4-66" value="ゴブ太" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#FFD966;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
+        <mxCell id="VWBdSnfvONrWbHNa6RA4-66" value="技研花子" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#FFD966;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
           <mxGeometry x="505" y="290" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VWBdSnfvONrWbHNa6RA4-67" value="ゴブリン" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#FFD966;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
+        <mxCell id="VWBdSnfvONrWbHNa6RA4-67" value="２４歳" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#FFD966;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
           <mxGeometry x="505" y="315" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VWBdSnfvONrWbHNa6RA4-68" value="男" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#FFD966;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
+        <mxCell id="VWBdSnfvONrWbHNa6RA4-68" value="女性" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#FFD966;strokeColor=none;" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
           <mxGeometry x="505" y="340" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VWBdSnfvONrWbHNa6RA4-69" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;strokeColor=none;fillColor=#FF6666;" parent="JZGJxhiENXGtC00-CpB7-1" edge="1">
