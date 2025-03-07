@@ -963,13 +963,13 @@
           <mxGeometry x="-35" y="392.5" width="185" height="45" as="geometry" />
         </mxCell>
         <mxCell id="VWBdSnfvONrWbHNa6RA4-77" value="②同じ生物クラス(設計書)から、同じ構造のオブジェクトが必要な分だけ作成されます。" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
-          <mxGeometry x="162.5" y="490" width="185" height="30" as="geometry" />
+          <mxGeometry x="180" y="455" width="185" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VWBdSnfvONrWbHNa6RA4-78" value="④プロパティ(情報)に対して、メソッドによる操作が可能となります。" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
-          <mxGeometry x="162.5" y="520" width="185" height="30" as="geometry" />
+          <mxGeometry x="180" y="495" width="185" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VWBdSnfvONrWbHNa6RA4-79" value="③生物オブジェクトが作成されたので、&lt;div&gt;データを格納します。&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" parent="JZGJxhiENXGtC00-CpB7-1" vertex="1">
-          <mxGeometry x="430" y="205" width="185" height="30" as="geometry" />
+          <mxGeometry x="565" y="65" width="185" height="30" as="geometry" />
         </mxCell>
         <mxCell id="keMqY6-0_Auv7MFwdn-f-3" value="インスタンス化&lt;div&gt;(実体化)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;rotation=-19;" vertex="1" parent="JZGJxhiENXGtC00-CpB7-1">
           <mxGeometry x="47" y="134" width="90" height="30" as="geometry" />
