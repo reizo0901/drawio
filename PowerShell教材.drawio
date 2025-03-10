@@ -1176,14 +1176,8 @@
         <mxCell id="V8BbZ0j6qGxcBFvG0fj5-117" value="cliptext[5]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="754" y="1984" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="V8BbZ0j6qGxcBFvG0fj5-118" value="split[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="806" y="1848" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="V8BbZ0j6qGxcBFvG0fj5-119" value="split[1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="876" y="1848" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="V8BbZ0j6qGxcBFvG0fj5-120" value="split[2]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="996" y="1848" width="60" height="30" as="geometry" />
+        <mxCell id="V8BbZ0j6qGxcBFvG0fj5-118" value="split(&quot;`t&quot;)[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="806" y="1848" width="64" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V8BbZ0j6qGxcBFvG0fj5-122" value="cliptext[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="1872" width="60" height="30" as="geometry" />
@@ -1217,6 +1211,12 @@
         </mxCell>
         <mxCell id="V8BbZ0j6qGxcBFvG0fj5-132" value="splitメソッドを使ったデータのイメージ" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="816" y="1818" width="238" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="V8BbZ0j6qGxcBFvG0fj5-133" value="split(&quot;`t&quot;)[1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="878" y="1848" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V8BbZ0j6qGxcBFvG0fj5-134" value="split(&quot;`t&quot;)[2]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="996" y="1848" width="64" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
