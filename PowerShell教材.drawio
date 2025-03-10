@@ -155,7 +155,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BorZKG-VS0TfqSGUH6tz" name="オブジェクト">
-    <mxGraphModel dx="1118" dy="638" grid="1" gridSize="2" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1136" dy="692" grid="1" gridSize="2" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -900,7 +900,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V8BbZ0j6qGxcBFvG0fj5-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="83" y="1874" width="276" height="140" as="geometry" />
+          <mxGeometry x="109" y="1874" width="276" height="140" as="geometry" />
         </mxCell>
         <mxCell id="V8BbZ0j6qGxcBFvG0fj5-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="V8BbZ0j6qGxcBFvG0fj5-1">
           <mxGeometry width="276" height="28" as="geometry" />
@@ -1068,14 +1068,8 @@
             <mxRectangle width="276" height="28" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V8BbZ0j6qGxcBFvG0fj5-65" value="エクセルのデータ" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="82" y="1856" width="104" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="V8BbZ0j6qGxcBFvG0fj5-66" value="配列オブジェクトのデータ" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="464" y="1856" width="164" height="18" as="geometry" />
-        </mxCell>
         <mxCell id="V8BbZ0j6qGxcBFvG0fj5-92" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="844" y="1874" width="276" height="140" as="geometry" />
+          <mxGeometry x="816" y="1874" width="276" height="140" as="geometry" />
         </mxCell>
         <mxCell id="V8BbZ0j6qGxcBFvG0fj5-93" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="V8BbZ0j6qGxcBFvG0fj5-92">
           <mxGeometry width="276" height="28" as="geometry" />
@@ -1168,28 +1162,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V8BbZ0j6qGxcBFvG0fj5-113" value="cliptext[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="782" y="1872" width="60" height="30" as="geometry" />
+          <mxGeometry x="754" y="1872" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V8BbZ0j6qGxcBFvG0fj5-114" value="cliptext[1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="782" y="1900" width="60" height="30" as="geometry" />
+          <mxGeometry x="754" y="1900" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V8BbZ0j6qGxcBFvG0fj5-115" value="cliptext[2]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="782" y="1928" width="60" height="30" as="geometry" />
+          <mxGeometry x="754" y="1928" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V8BbZ0j6qGxcBFvG0fj5-116" value="cliptext[3]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="782" y="1956" width="60" height="30" as="geometry" />
+          <mxGeometry x="754" y="1956" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V8BbZ0j6qGxcBFvG0fj5-117" value="cliptext[5]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="782" y="1984" width="60" height="30" as="geometry" />
+          <mxGeometry x="754" y="1984" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V8BbZ0j6qGxcBFvG0fj5-118" value="split[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="834" y="1848" width="60" height="30" as="geometry" />
+          <mxGeometry x="806" y="1848" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V8BbZ0j6qGxcBFvG0fj5-119" value="split[1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="904" y="1848" width="60" height="30" as="geometry" />
+          <mxGeometry x="876" y="1848" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V8BbZ0j6qGxcBFvG0fj5-120" value="split[2]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1024" y="1848" width="60" height="30" as="geometry" />
+          <mxGeometry x="996" y="1848" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V8BbZ0j6qGxcBFvG0fj5-122" value="cliptext[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="1872" width="60" height="30" as="geometry" />
@@ -1205,6 +1199,24 @@
         </mxCell>
         <mxCell id="V8BbZ0j6qGxcBFvG0fj5-126" value="cliptext[5]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="1984" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V8BbZ0j6qGxcBFvG0fj5-128" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="112" y="1816" width="274" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V8BbZ0j6qGxcBFvG0fj5-65" value="エクセルのデータ" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="196" y="1818" width="104" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="V8BbZ0j6qGxcBFvG0fj5-129" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1816" width="338" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V8BbZ0j6qGxcBFvG0fj5-130" value="配列オブジェクトに格納したデータ" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="476" y="1818" width="214" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="V8BbZ0j6qGxcBFvG0fj5-131" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="754" y="1816" width="338" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V8BbZ0j6qGxcBFvG0fj5-132" value="splitメソッドを使ったデータのイメージ" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="816" y="1818" width="238" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
