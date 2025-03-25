@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.2">
   <diagram id="wS0xfYaGGSN6uK0Eu00o" name="修正版">
-    <mxGraphModel dx="1042" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="167" dy="86" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="ag140qJKRGpbqsQz48VF-1" value="AWS Cloud" style="" parent="0" />
@@ -82,7 +82,7 @@
         <mxCell id="ag140qJKRGpbqsQz48VF-392" value="IAM Policy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ag140qJKRGpbqsQz48VF-526" vertex="1">
           <mxGeometry x="51.25000000000001" y="307" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AHDB8tS_1ph9hOhEc5bJ-2" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.permissions;" vertex="1" parent="ag140qJKRGpbqsQz48VF-526">
+        <mxCell id="AHDB8tS_1ph9hOhEc5bJ-2" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.permissions;" parent="ag140qJKRGpbqsQz48VF-526" vertex="1">
           <mxGeometry x="60.19" y="253.5" width="42.12" height="53" as="geometry" />
         </mxCell>
         <mxCell id="ag140qJKRGpbqsQz48VF-291" value="&lt;div&gt;AWS&lt;/div&gt;&lt;div&gt;Lambda&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ag140qJKRGpbqsQz48VF-526" vertex="1">
@@ -178,7 +178,7 @@
         <mxCell id="ag140qJKRGpbqsQz48VF-445" value="インシデント&lt;div&gt;通知&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ag140qJKRGpbqsQz48VF-274" vertex="1">
           <mxGeometry x="954" y="414" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ag140qJKRGpbqsQz48VF-446" value="" style="shape=mxgraph.signs.tech.mail;html=1;pointerEvents=1;fillColor=#666666;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="ag140qJKRGpbqsQz48VF-274" vertex="1">
+        <mxCell id="ag140qJKRGpbqsQz48VF-446" value="" style="shape=mxgraph.signs.tech.mail;html=1;pointerEvents=1;fillColor=#666666;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeOpacity=100;fillOpacity=100;" parent="ag140qJKRGpbqsQz48VF-274" vertex="1">
           <mxGeometry x="967.6" y="370" width="52.8" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ag140qJKRGpbqsQz48VF-448" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;startFill=0;strokeWidth=3;strokeColor=#FF8000;endFill=1;" parent="ag140qJKRGpbqsQz48VF-274" edge="1">
