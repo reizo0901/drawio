@@ -535,9 +535,6 @@
             <mxPoint x="204" y="402" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AHDB8tS_1ph9hOhEc5bJ-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.permissions;" vertex="1" parent="ag140qJKRGpbqsQz48VF-526">
-          <mxGeometry x="59.19" y="311.5" width="42.12" height="53" as="geometry" />
-        </mxCell>
         <mxCell id="ag140qJKRGpbqsQz48VF-69" value="Region" style="" parent="0" />
         <mxCell id="ag140qJKRGpbqsQz48VF-125" value="Security group" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;whiteSpace=wrap;html=1;" parent="ag140qJKRGpbqsQz48VF-69" vertex="1">
           <mxGeometry x="584" y="479" width="94" height="112.5" as="geometry" />
@@ -769,6 +766,9 @@
         </mxCell>
         <mxCell id="ag140qJKRGpbqsQz48VF-433" value="異常検知" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#FFFFFF;gradientColor=none;strokeColor=light-dark(#e42379, #295a0d);strokeWidth=3;fontColor=light-dark(#e42379, #295a0d);fontStyle=1;shadow=1;shadowBlur=0;" parent="ag140qJKRGpbqsQz48VF-274" vertex="1">
           <mxGeometry x="690" y="449" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AHDB8tS_1ph9hOhEc5bJ-2" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.permissions;" vertex="1" parent="ag140qJKRGpbqsQz48VF-274">
+          <mxGeometry x="139.19" y="461.5" width="42.12" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
