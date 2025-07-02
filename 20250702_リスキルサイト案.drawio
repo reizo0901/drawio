@@ -1,89 +1,169 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.1.6">
-  <diagram name="ページ1" id="wMeUEnmld4QScc9gEmDQ">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.2.0" pages="2">
+  <diagram name="メインページ" id="wMeUEnmld4QScc9gEmDQ">
+    <mxGraphModel dx="1198" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FedPMPM-3f4tM0Vr6WgK-1" value="リスキルポータル トップページ" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FedPMPM-3f4tM0Vr6WgK-2" value="メインメニュー" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="170" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FedPMPM-3f4tM0Vr6WgK-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="200" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FedPMPM-3f4tM0Vr6WgK-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="200" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FedPMPM-3f4tM0Vr6WgK-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="200" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FedPMPM-3f4tM0Vr6WgK-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="200" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FedPMPM-3f4tM0Vr6WgK-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="200" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FedPMPM-3f4tM0Vr6WgK-9" value="リスキルWG" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FedPMPM-3f4tM0Vr6WgK-10" value="WLV向上委員会" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="180" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FedPMPM-3f4tM0Vr6WgK-11" value="組織活性化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="320" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FedPMPM-3f4tM0Vr6WgK-12" value="Next C.T.L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="460" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FedPMPM-3f4tM0Vr6WgK-13" value="企業理念推進委員会" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="600" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FedPMPM-3f4tM0Vr6WgK-14" value="更新情報" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FedPMPM-3f4tM0Vr6WgK-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="340" width="680" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FedPMPM-3f4tM0Vr6WgK-16" value="おしらせ" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FedPMPM-3f4tM0Vr6WgK-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="110" width="680" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oiv-4dMFuAl-StK903SG-1" value="各ページの更新情報などを掲載します。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="385" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiv-4dMFuAl-StK903SG-2" value="重要度の高い情報を掲載します。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="120" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiv-4dMFuAl-StK903SG-3" value="何か面白い情報載せたいですね。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiv-4dMFuAl-StK903SG-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="510" width="680" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oiv-4dMFuAl-StK903SG-5" value="学習サイトのリンクをだらだらと載せてもいいね。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="520" width="335" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiv-4dMFuAl-StK903SG-6" value="￥" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="585" width="335" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KC0oikg14A7N1GVqcF_b" name="リスキルサイト">
     <mxGraphModel dx="1018" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-1" value="リスキルポータル トップページ" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-1" value="リスキルWG - トップページ" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-2" value="メインメニュー" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-2" value="メインメニュー" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="170" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="200" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="200" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="200" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="200" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-8" value="リスキルメンバー紹介" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-8" value="リスキルメンバー紹介" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="560" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-9" value="リスキルWG" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-9" value="リスキルWG" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-10" value="WLV向上委員会" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-10" value="WLV向上委員会" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="180" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-11" value="組織活性化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-11" value="組織活性化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="320" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-12" value="Next C.T.L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-12" value="Next C.T.L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="460" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-13" value="企業理念推進委員会" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-13" value="企業理念推進委員会" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="600" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-14" value="更新情報" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-14" value="更新情報" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="310" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="340" width="680" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-16" value="おしらせ" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-16" value="おしらせ" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="110" width="680" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="590" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="590" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="590" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="590" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="590" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-24" value="リスキルWG" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-23" value="リスキルWG" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="650" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-25" value="WLV向上委員会" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-24" value="WLV向上委員会" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="180" y="650" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-26" value="組織活性化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-25" value="組織活性化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="320" y="650" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-27" value="Next C.T.L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-26" value="Next C.T.L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="460" y="650" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FedPMPM-3f4tM0Vr6WgK-28" value="企業理念推進委員会" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-27" value="企業理念推進委員会" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="600" y="650" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DO2PiSeSNPy9GDb11soI-28" value="各ページの更新情報などを掲載します。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="385" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DO2PiSeSNPy9GDb11soI-29" value="重要度の高い情報を掲載します。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="120" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
