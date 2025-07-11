@@ -4,47 +4,56 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WyPhDyIGE4Ye550-s1A6-2" value="ESXiホスト" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#663300;fontStyle=1;fontColor=#FFFFFF;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="310" y="240.5" width="140" height="19.5" as="geometry" />
+        <mxCell id="WyPhDyIGE4Ye550-s1A6-2" value="ESXi&lt;div&gt;ホスト&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#663300;fontStyle=1;fontColor=#FFFFFF;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="280" y="560" width="40" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="WyPhDyIGE4Ye550-s1A6-3" value="Pure Storage" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=#000000;fillColor=#004C99;fontColor=light-dark(#ffffff, #ededed);fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="310" y="270" width="290" height="42.5" as="geometry" />
+          <mxGeometry x="280" y="640" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WyPhDyIGE4Ye550-s1A6-5" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;移行対象&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;VM&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#005f4b, #ededed);fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="310" y="190" width="40" height="39.5" as="geometry" />
+          <mxGeometry x="240" y="160" width="40" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="WyPhDyIGE4Ye550-s1A6-6" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;移行対象&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;VM&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#005f4b, #ededed);fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="360" y="190" width="40" height="39.5" as="geometry" />
+          <mxGeometry x="290" y="160" width="40" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="WyPhDyIGE4Ye550-s1A6-10" value="ESXiホスト" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#663300;fontStyle=1;fontColor=#FFFFFF;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="460" y="240.5" width="140" height="19.5" as="geometry" />
+          <mxGeometry x="460" y="240.5" width="140" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="WyPhDyIGE4Ye550-s1A6-11" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Veeam&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;リポジトリ&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#005f4b, #ededed);fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="510" y="190" width="40" height="39.5" as="geometry" />
+          <mxGeometry x="510" y="160" width="40" height="39.5" as="geometry" />
         </mxCell>
-        <mxCell id="WyPhDyIGE4Ye550-s1A6-12" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;VM&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;プロキシ&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#005f4b, #ededed);fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="560" y="190" width="40" height="39.5" as="geometry" />
+        <mxCell id="WyPhDyIGE4Ye550-s1A6-12" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Veeam&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;プロキシ&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#005f4b, #ededed);fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="280" y="400" width="40" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="WyPhDyIGE4Ye550-s1A6-13" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;vCenter&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#660033,#EDEDED);fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="620" y="190" width="40" height="39.5" as="geometry" />
+          <mxGeometry x="280" y="480" width="40" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WyPhDyIGE4Ye550-s1A6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WyPhDyIGE4Ye550-s1A6-14" target="WyPhDyIGE4Ye550-s1A6-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WyPhDyIGE4Ye550-s1A6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WyPhDyIGE4Ye550-s1A6-14" target="WyPhDyIGE4Ye550-s1A6-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WyPhDyIGE4Ye550-s1A6-14" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;VBR&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#005f4b, #ededed);fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="460" y="190" width="40" height="39.5" as="geometry" />
+          <mxGeometry x="280" y="320" width="40" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="WyPhDyIGE4Ye550-s1A6-15" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Veeam&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;プロキシ&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;(Appliance)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#005f4b, #ededed);fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="410" y="190" width="40" height="39.5" as="geometry" />
+          <mxGeometry x="360" y="640.5" width="40" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="WyPhDyIGE4Ye550-s1A6-16" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;AWS&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;S3&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#004c99, #EDEDED);fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="700" y="240.5" width="40" height="39.5" as="geometry" />
+          <mxGeometry x="440" y="640.5" width="40" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="WyPhDyIGE4Ye550-s1A6-17" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;AWS&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Console&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#660033,#EDEDED);fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="700" y="190.5" width="40" height="39.5" as="geometry" />
+          <mxGeometry x="440" y="400" width="40" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="WyPhDyIGE4Ye550-s1A6-18" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Helper&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Instance&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#005f4b, #ededed);fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="700" y="290" width="40" height="39.5" as="geometry" />
+          <mxGeometry x="440" y="560" width="40" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="WyPhDyIGE4Ye550-s1A6-23" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;AWS&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;認証&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#660033,#EDEDED);fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="700" y="140" width="40" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WyPhDyIGE4Ye550-s1A6-24" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;AWS&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;証明書認証&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#009900,#EDEDED);fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="40" height="39.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
