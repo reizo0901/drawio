@@ -129,29 +129,17 @@
         <mxCell id="DO2PiSeSNPy9GDb11soI-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="200" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="DO2PiSeSNPy9GDb11soI-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="200" width="120" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="DO2PiSeSNPy9GDb11soI-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="200" width="120" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="DO2PiSeSNPy9GDb11soI-8" value="リスキルメンバー紹介" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="40" y="560" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DO2PiSeSNPy9GDb11soI-9" value="ドキュメント" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-9" value="リスキル研修情報" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="40" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DO2PiSeSNPy9GDb11soI-10" value="クラウド環境" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-10" value="クラウド環境提供" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="180" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DO2PiSeSNPy9GDb11soI-11" value="組織活性化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="DO2PiSeSNPy9GDb11soI-11" value="資格取得応援" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="320" y="260" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DO2PiSeSNPy9GDb11soI-12" value="Next C.T.L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="460" y="260" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DO2PiSeSNPy9GDb11soI-13" value="企業理念推進委員会" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="600" y="260" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DO2PiSeSNPy9GDb11soI-14" value="更新情報" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="40" y="310" width="120" height="30" as="geometry" />
