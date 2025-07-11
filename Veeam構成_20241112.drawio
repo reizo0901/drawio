@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WyPhDyIGE4Ye550-s1A6-49" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;fillColor=#F8CECC;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="400" width="300" height="170" as="geometry" />
+          <mxGeometry x="130" y="400" width="320" height="170" as="geometry" />
         </mxCell>
         <mxCell id="WyPhDyIGE4Ye550-s1A6-48" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#D4E1F5;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="320" width="320" height="59.75" as="geometry" />
         </mxCell>
         <mxCell id="WyPhDyIGE4Ye550-s1A6-47" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=none;fillColor=#D5E8D4;" vertex="1" parent="1">
-          <mxGeometry x="150" y="220" width="300" height="70" as="geometry" />
+          <mxGeometry x="130" y="220" width="320" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WyPhDyIGE4Ye550-s1A6-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="WyPhDyIGE4Ye550-s1A6-2" target="WyPhDyIGE4Ye550-s1A6-32">
           <mxGeometry relative="1" as="geometry">
@@ -140,7 +140,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WyPhDyIGE4Ye550-s1A6-50" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=none;fillColor=#D5E8D4;" vertex="1" parent="1">
-          <mxGeometry x="150" y="150" width="300" height="59.75" as="geometry" />
+          <mxGeometry x="130" y="150" width="320" height="59.75" as="geometry" />
         </mxCell>
         <mxCell id="WyPhDyIGE4Ye550-s1A6-5" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;移行対象&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;VM&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#005f4b, #ededed);fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="280" y="160.13" width="40" height="39.5" as="geometry" />
