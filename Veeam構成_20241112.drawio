@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.2">
   <diagram name="ページ1" id="RHtc9xqBzX8dG-IQXySC">
-    <mxGraphModel dx="719" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="839" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,9 +105,6 @@
         </mxCell>
         <mxCell id="WyPhDyIGE4Ye550-s1A6-18" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Helper&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Instance&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#005f4b, #ededed);fontSize=7;strokeWidth=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="320" y="212" width="40" height="39.5" as="geometry" />
-        </mxCell>
-        <mxCell id="WyPhDyIGE4Ye550-s1A6-23" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;AWS&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;認証&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#660033,#EDEDED);fontSize=7;" parent="1" vertex="1">
-          <mxGeometry x="700" y="140" width="40" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="WyPhDyIGE4Ye550-s1A6-24" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;AWS&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;証明書認証&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#994C00,#EDEDED);fontSize=7;strokeWidth=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="160" y="212" width="40" height="39.5" as="geometry" />
