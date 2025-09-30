@@ -589,6 +589,42 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fc9U4YwGaRxIElyDWgjT-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fc9U4YwGaRxIElyDWgjT-2" value="AWS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fc9U4YwGaRxIElyDWgjT-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fc9U4YwGaRxIElyDWgjT-4" value="Azure" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fc9U4YwGaRxIElyDWgjT-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fc9U4YwGaRxIElyDWgjT-6" value="Google Cloud" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fc9U4YwGaRxIElyDWgjT-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fc9U4YwGaRxIElyDWgjT-8" value="Google Workspace" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fc9U4YwGaRxIElyDWgjT-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fc9U4YwGaRxIElyDWgjT-10" value="Kintone" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fc9U4YwGaRxIElyDWgjT-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fc9U4YwGaRxIElyDWgjT-12" value="Microsoft 365" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
