@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="28.0.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.9">
   <diagram name="ページ1" id="RHtc9xqBzX8dG-IQXySC">
-    <mxGraphModel dx="553" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="618" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
         <mxCell id="E2DjYJTC_gy851Ksnk0z-14" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Veeam&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;プロキシ&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#005f4b, #ededed);fontSize=7;strokeWidth=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="207" y="394.25" width="40" height="39.5" as="geometry" />
         </mxCell>
-        <mxCell id="JP7JfP3O4xv360aBearq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="E2DjYJTC_gy851Ksnk0z-15" target="E2DjYJTC_gy851Ksnk0z-22">
+        <mxCell id="JP7JfP3O4xv360aBearq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="E2DjYJTC_gy851Ksnk0z-15" target="E2DjYJTC_gy851Ksnk0z-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E2DjYJTC_gy851Ksnk0z-15" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;vCenter&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#660033,#EDEDED);fontSize=7;strokeWidth=1;strokeColor=default;" parent="1" vertex="1">
@@ -68,7 +68,7 @@
         <mxCell id="E2DjYJTC_gy851Ksnk0z-17" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="E2DjYJTC_gy851Ksnk0z-19" target="E2DjYJTC_gy851Ksnk0z-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E2DjYJTC_gy851Ksnk0z-18" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" edge="1" target="E2DjYJTC_gy851Ksnk0z-23">
+        <mxCell id="E2DjYJTC_gy851Ksnk0z-18" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" target="E2DjYJTC_gy851Ksnk0z-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="237" y="311" />
@@ -124,7 +124,7 @@
           <mxGeometry x="312" y="243.5" width="40" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="E2DjYJTC_gy851Ksnk0z-34" value="閉域網(Universal One)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1;fontColor=#006600;" parent="1" vertex="1">
-          <mxGeometry x="210" y="80" width="130" height="12" as="geometry" />
+          <mxGeometry x="290" y="80" width="130" height="12" as="geometry" />
         </mxCell>
         <mxCell id="E2DjYJTC_gy851Ksnk0z-35" value="サーバ１" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1;fontColor=#004C99;" parent="1" vertex="1">
           <mxGeometry x="257" y="223" width="50" height="12" as="geometry" />
