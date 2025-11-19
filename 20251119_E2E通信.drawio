@@ -4,56 +4,56 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-1" value="AWS" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=none;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-1" value="AWS" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=none;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="400" y="10" width="280" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-18" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="420" width="190" height="90" as="geometry" />
+        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-18" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="480" y="430" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-17" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-17" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="480" y="50" width="190" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-2" value="JPGC" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-2" value="JPGC" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="80" y="10" width="200" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-3" value="JPT拠点&lt;div&gt;10.20.0.0/16&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-3" value="JPT拠点&lt;div&gt;10.20.0.0/16&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="200" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-4" value="保守拠点" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-4" value="保守拠点" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="530" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-5" value="JPT拠点&lt;div&gt;10.30.0.0/16&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-5" value="JPT拠点&lt;div&gt;10.30.0.0/16&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="240" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-6" value="JPT拠点&lt;div&gt;10.40.0.0/16&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-6" value="JPT拠点&lt;div&gt;10.40.0.0/16&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="280" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-7" value="JPT拠点&lt;div&gt;10.66.0.0/15&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-7" value="JPT拠点&lt;div&gt;10.66.0.0/15&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="80" y="320" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-8" value="VPN用モバイルWi-Fi&lt;br&gt;&lt;div&gt;10.103.116.0/24&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-8" value="VPN用モバイルWi-Fi&lt;br&gt;&lt;div&gt;10.103.116.0/24&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="410" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-9" value="SmartworkStream中継サーバ&lt;br&gt;&lt;div&gt;10.0.1.0/24&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-9" value="SmartworkStream中継サーバ&lt;br&gt;&lt;div&gt;10.0.1.0/24&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="450" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-10" value="&lt;div&gt;日本ユニシス開発環境&lt;/div&gt;10.160.0.0/24" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-10" value="&lt;div&gt;日本ユニシス開発環境&lt;/div&gt;10.160.0.0/24" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="490" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-11" value="リモート監視用&lt;br&gt;&lt;div&gt;10.67.0.0/16&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-11" value="リモート監視用&lt;br&gt;&lt;div&gt;10.67.0.0/16&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="90" y="360" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-13" value="ADサーバ&lt;div&gt;#1&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-13" value="ADサーバ&lt;div&gt;#1&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="580" y="60" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-14" value="SS1サーバ&lt;div&gt;#1&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-14" value="SS1サーバ&lt;div&gt;#1&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="580" y="190" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-15" value="SS1サーバ&lt;div&gt;#2&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-15" value="SS1サーバ&lt;div&gt;#2&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="580" y="310" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-16" value="ADサーバ&lt;div&gt;#2&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="580" y="430" width="70" height="70" as="geometry" />
+        <mxCell id="rA1U6NXt5pIz_Y_AIr1O-16" value="ADサーバ&lt;div&gt;#2&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="580" y="440" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
