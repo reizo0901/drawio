@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
   <diagram name="ページ1" id="Jp61mEkHFK5jXkCtd4Lm">
-    <mxGraphModel dx="783" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="945" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -158,6 +158,90 @@
         <mxCell id="bEywBy7bICK7aBhy2Hfq-13" parent="bEywBy7bICK7aBhy2Hfq-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="" vertex="1" visible="0">
           <mxGeometry height="100" width="300" x="305" as="geometry">
             <mxRectangle height="100" width="300" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;left=1;strokeWidth=0.5;" value="" vertex="1">
+          <mxGeometry height="200" width="599" x="120" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-8" parent="c2cOlIfcrw4G6-DVTOhK-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="599" as="geometry" />
+        </mxCell>
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-9" parent="c2cOlIfcrw4G6-DVTOhK-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;" value="Specific(具体的)" vertex="1">
+          <mxGeometry height="40" width="190" as="geometry">
+            <mxRectangle height="40" width="190" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-10" parent="c2cOlIfcrw4G6-DVTOhK-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" value="　アカウント作成業務の自動化" vertex="1">
+          <mxGeometry height="40" width="409" x="190" as="geometry">
+            <mxRectangle height="40" width="409" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-11" parent="c2cOlIfcrw4G6-DVTOhK-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="599" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-12" parent="c2cOlIfcrw4G6-DVTOhK-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;" value="Measurable(測定可能)" vertex="1">
+          <mxGeometry height="40" width="190" as="geometry">
+            <mxRectangle height="40" width="190" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-13" parent="c2cOlIfcrw4G6-DVTOhK-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" value="　月あたり約10時間の作業時間削減" vertex="1">
+          <mxGeometry height="40" width="409" x="190" as="geometry">
+            <mxRectangle height="40" width="409" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-14" parent="c2cOlIfcrw4G6-DVTOhK-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="599" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-15" parent="c2cOlIfcrw4G6-DVTOhK-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;" value="Achievable(達成可能)" vertex="1">
+          <mxGeometry height="40" width="190" as="geometry">
+            <mxRectangle height="40" width="190" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-16" parent="c2cOlIfcrw4G6-DVTOhK-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" value="　既存の仕組みを利用した自動化で実現性は十分にある" vertex="1">
+          <mxGeometry height="40" width="409" x="190" as="geometry">
+            <mxRectangle height="40" width="409" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-17" parent="c2cOlIfcrw4G6-DVTOhK-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="599" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-18" parent="c2cOlIfcrw4G6-DVTOhK-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;" value="Relevant(関連性がある)" vertex="1">
+          <mxGeometry height="40" width="190" as="geometry">
+            <mxRectangle height="40" width="190" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-19" parent="c2cOlIfcrw4G6-DVTOhK-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" value="　運用全体の負荷軽減につながる" vertex="1">
+          <mxGeometry height="40" width="409" x="190" as="geometry">
+            <mxRectangle height="40" width="409" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-20" parent="c2cOlIfcrw4G6-DVTOhK-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="599" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-21" parent="c2cOlIfcrw4G6-DVTOhK-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;" value="Time-bound(期限がある)" vertex="1">
+          <mxGeometry height="40" width="190" as="geometry">
+            <mxRectangle height="40" width="190" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-22" parent="c2cOlIfcrw4G6-DVTOhK-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" value="　3ケ月以内の実装・効果の確認" vertex="1">
+          <mxGeometry height="40" width="409" x="190" as="geometry">
+            <mxRectangle height="40" width="409" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-23" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeWidth=0.5;" value="" vertex="1">
+          <mxGeometry height="40" width="600" x="120" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-24" parent="c2cOlIfcrw4G6-DVTOhK-23" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="600" as="geometry" />
+        </mxCell>
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-25" parent="c2cOlIfcrw4G6-DVTOhK-24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;" value="目標設定" vertex="1">
+          <mxGeometry height="40" width="130" as="geometry">
+            <mxRectangle height="40" width="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-26" parent="c2cOlIfcrw4G6-DVTOhK-24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" value="　業務改善案の報告をする。" vertex="1">
+          <mxGeometry height="40" width="470" x="130" as="geometry">
+            <mxRectangle height="40" width="470" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
