@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
   <diagram name="ページ1" id="Jp61mEkHFK5jXkCtd4Lm">
-    <mxGraphModel dx="945" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="784" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,18 +105,18 @@
             <mxPoint x="480" y="253.86" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bEywBy7bICK7aBhy2Hfq-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeWidth=0.5;strokeColor=default;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;" value="" vertex="1">
+        <mxCell id="bEywBy7bICK7aBhy2Hfq-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeWidth=0.5;strokeColor=default;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
           <mxGeometry height="220" width="605" x="150" y="330" as="geometry" />
         </mxCell>
         <mxCell id="bEywBy7bICK7aBhy2Hfq-2" parent="bEywBy7bICK7aBhy2Hfq-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=0.5;" value="" vertex="1">
           <mxGeometry height="20" width="605" as="geometry" />
         </mxCell>
-        <mxCell id="bEywBy7bICK7aBhy2Hfq-3" parent="bEywBy7bICK7aBhy2Hfq-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=#d5e8d4;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeWidth=0.5;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;" value="Keep(継続すること)" vertex="1">
+        <mxCell id="bEywBy7bICK7aBhy2Hfq-3" parent="bEywBy7bICK7aBhy2Hfq-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=#d5e8d4;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeWidth=0.5;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;" value="Keep(継続すること)" vertex="1">
           <mxGeometry height="20" width="305" as="geometry">
             <mxRectangle height="20" width="305" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bEywBy7bICK7aBhy2Hfq-4" parent="bEywBy7bICK7aBhy2Hfq-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeWidth=0.5;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;" value="Try(挑戦すること)" vertex="1">
+        <mxCell id="bEywBy7bICK7aBhy2Hfq-4" parent="bEywBy7bICK7aBhy2Hfq-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeWidth=0.5;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;" value="Try(挑戦すること)" vertex="1">
           <mxGeometry height="20" width="300" x="305" as="geometry">
             <mxRectangle height="20" width="300" as="alternateBounds" />
           </mxGeometry>
@@ -124,12 +124,12 @@
         <mxCell id="bEywBy7bICK7aBhy2Hfq-5" parent="bEywBy7bICK7aBhy2Hfq-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=left;" value="" vertex="1">
           <mxGeometry height="80" width="605" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="bEywBy7bICK7aBhy2Hfq-6" parent="bEywBy7bICK7aBhy2Hfq-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;" value="&lt;li data-start=&quot;383&quot; data-end=&quot;399&quot;&gt;&lt;p data-start=&quot;385&quot; data-end=&quot;399&quot;&gt;・毎日遅刻せず出社している&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・メモは一応取っている&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・報告は早くなった&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・指示された作業は最後までやろうとしている&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;" vertex="1">
+        <mxCell id="bEywBy7bICK7aBhy2Hfq-6" parent="bEywBy7bICK7aBhy2Hfq-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;" value="&lt;li data-start=&quot;383&quot; data-end=&quot;399&quot;&gt;&lt;p data-start=&quot;385&quot; data-end=&quot;399&quot;&gt;・毎日遅刻せず出社している&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・メモは一応取っている&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・報告は早くなった&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・指示された作業は最後までやろうとしている&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;" vertex="1">
           <mxGeometry height="80" width="305" as="geometry">
             <mxRectangle height="80" width="305" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bEywBy7bICK7aBhy2Hfq-7" parent="bEywBy7bICK7aBhy2Hfq-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=3;colspan=1;align=left;verticalAlign=top;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;" value="&lt;li data-start=&quot;783&quot; data-end=&quot;809&quot;&gt;&lt;p data-start=&quot;785&quot; data-end=&quot;809&quot;&gt;・質問する前に「自分なりの仮説」を1つ用意する&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・メモに「作業の目的」「背景」を書く&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・作業後に「これは何の役に立ったのか」を一言書く&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・ミスを「手順」「判断」「確認」のどこかに分類する&lt;br&gt;・環境構成図をみてしっかり理解する&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;" vertex="1">
+        <mxCell id="bEywBy7bICK7aBhy2Hfq-7" parent="bEywBy7bICK7aBhy2Hfq-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=3;colspan=1;align=left;verticalAlign=top;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;" value="&lt;li data-start=&quot;783&quot; data-end=&quot;809&quot;&gt;&lt;p data-start=&quot;785&quot; data-end=&quot;809&quot;&gt;・質問する前に「自分なりの仮説」を1つ用意する&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・メモに「作業の目的」「背景」を書く&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・作業後に「これは何の役に立ったのか」を一言書く&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・ミスを「手順」「判断」「確認」のどこかに分類する&lt;br&gt;・環境構成図をみてしっかり理解する&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;" vertex="1">
           <mxGeometry height="200" width="300" x="305" as="geometry">
             <mxRectangle height="80" width="300" as="alternateBounds" />
           </mxGeometry>
@@ -137,7 +137,7 @@
         <mxCell id="bEywBy7bICK7aBhy2Hfq-8" parent="bEywBy7bICK7aBhy2Hfq-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="20" width="605" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="bEywBy7bICK7aBhy2Hfq-9" parent="bEywBy7bICK7aBhy2Hfq-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeWidth=0.5;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;" value="Problem(改善すること)" vertex="1">
+        <mxCell id="bEywBy7bICK7aBhy2Hfq-9" parent="bEywBy7bICK7aBhy2Hfq-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeWidth=0.5;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;" value="Problem(改善すること)" vertex="1">
           <mxGeometry height="20" width="305" as="geometry">
             <mxRectangle height="20" width="305" as="alternateBounds" />
           </mxGeometry>
@@ -150,7 +150,7 @@
         <mxCell id="bEywBy7bICK7aBhy2Hfq-11" parent="bEywBy7bICK7aBhy2Hfq-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="100" width="605" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="bEywBy7bICK7aBhy2Hfq-12" parent="bEywBy7bICK7aBhy2Hfq-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;" value="&lt;li data-start=&quot;556&quot; data-end=&quot;584&quot;&gt;&lt;p data-start=&quot;558&quot; data-end=&quot;584&quot;&gt;・何を聞いていいか分からず、質問のタイミングを逃す&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・メモはあるが、後から見返しても意味が分からない&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・作業の目的が分からないまま手を動かしている&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・「次に何をすればいいか」を毎回待ってしまう&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・環境理解が浅い&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;" vertex="1">
+        <mxCell id="bEywBy7bICK7aBhy2Hfq-12" parent="bEywBy7bICK7aBhy2Hfq-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;" value="&lt;li data-start=&quot;556&quot; data-end=&quot;584&quot;&gt;&lt;p data-start=&quot;558&quot; data-end=&quot;584&quot;&gt;・何を聞いていいか分からず、質問のタイミングを逃す&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・メモはあるが、後から見返しても意味が分からない&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・作業の目的が分からないまま手を動かしている&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・「次に何をすればいいか」を毎回待ってしまう&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・環境理解が浅い&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;" vertex="1">
           <mxGeometry height="100" width="305" as="geometry">
             <mxRectangle height="100" width="305" as="alternateBounds" />
           </mxGeometry>
@@ -160,18 +160,18 @@
             <mxRectangle height="100" width="300" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;left=1;strokeWidth=0.5;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;" value="" vertex="1">
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;left=1;strokeWidth=0.5;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
           <mxGeometry height="200" width="599" x="120" y="680" as="geometry" />
         </mxCell>
         <mxCell id="c2cOlIfcrw4G6-DVTOhK-8" parent="c2cOlIfcrw4G6-DVTOhK-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;" value="" vertex="1">
           <mxGeometry height="40" width="599" as="geometry" />
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-9" parent="c2cOlIfcrw4G6-DVTOhK-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;" value="Specific(具体的)" vertex="1">
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-9" parent="c2cOlIfcrw4G6-DVTOhK-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" value="Specific(具体的)" vertex="1">
           <mxGeometry height="40" width="190" as="geometry">
             <mxRectangle height="40" width="190" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-10" parent="c2cOlIfcrw4G6-DVTOhK-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;" value="　アカウント作成業務の自動化" vertex="1">
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-10" parent="c2cOlIfcrw4G6-DVTOhK-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" value="　アカウント作成業務の自動化" vertex="1">
           <mxGeometry height="40" width="409" x="190" as="geometry">
             <mxRectangle height="40" width="409" as="alternateBounds" />
           </mxGeometry>
@@ -179,12 +179,12 @@
         <mxCell id="c2cOlIfcrw4G6-DVTOhK-11" parent="c2cOlIfcrw4G6-DVTOhK-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;" value="" vertex="1">
           <mxGeometry height="40" width="599" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-12" parent="c2cOlIfcrw4G6-DVTOhK-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;" value="Measurable(測定可能)" vertex="1">
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-12" parent="c2cOlIfcrw4G6-DVTOhK-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" value="Measurable(測定可能)" vertex="1">
           <mxGeometry height="40" width="190" as="geometry">
             <mxRectangle height="40" width="190" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-13" parent="c2cOlIfcrw4G6-DVTOhK-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;" value="　月あたり約10時間の作業時間削減" vertex="1">
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-13" parent="c2cOlIfcrw4G6-DVTOhK-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" value="　月あたり約10時間の作業時間削減" vertex="1">
           <mxGeometry height="40" width="409" x="190" as="geometry">
             <mxRectangle height="40" width="409" as="alternateBounds" />
           </mxGeometry>
@@ -192,12 +192,12 @@
         <mxCell id="c2cOlIfcrw4G6-DVTOhK-14" parent="c2cOlIfcrw4G6-DVTOhK-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;" value="" vertex="1">
           <mxGeometry height="40" width="599" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-15" parent="c2cOlIfcrw4G6-DVTOhK-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;" value="Achievable(達成可能)" vertex="1">
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-15" parent="c2cOlIfcrw4G6-DVTOhK-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" value="Achievable(達成可能)" vertex="1">
           <mxGeometry height="40" width="190" as="geometry">
             <mxRectangle height="40" width="190" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-16" parent="c2cOlIfcrw4G6-DVTOhK-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;" value="　既存の仕組みを利用した自動化で実現性は十分にある" vertex="1">
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-16" parent="c2cOlIfcrw4G6-DVTOhK-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" value="　既存の仕組みを利用した自動化で実現性は十分にある" vertex="1">
           <mxGeometry height="40" width="409" x="190" as="geometry">
             <mxRectangle height="40" width="409" as="alternateBounds" />
           </mxGeometry>
@@ -205,12 +205,12 @@
         <mxCell id="c2cOlIfcrw4G6-DVTOhK-17" parent="c2cOlIfcrw4G6-DVTOhK-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;" value="" vertex="1">
           <mxGeometry height="40" width="599" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-18" parent="c2cOlIfcrw4G6-DVTOhK-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;" value="Relevant(関連性がある)" vertex="1">
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-18" parent="c2cOlIfcrw4G6-DVTOhK-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" value="Relevant(関連性がある)" vertex="1">
           <mxGeometry height="40" width="190" as="geometry">
             <mxRectangle height="40" width="190" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-19" parent="c2cOlIfcrw4G6-DVTOhK-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;" value="　運用全体の負荷軽減につながる" vertex="1">
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-19" parent="c2cOlIfcrw4G6-DVTOhK-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" value="　運用全体の負荷軽減につながる" vertex="1">
           <mxGeometry height="40" width="409" x="190" as="geometry">
             <mxRectangle height="40" width="409" as="alternateBounds" />
           </mxGeometry>
@@ -218,137 +218,192 @@
         <mxCell id="c2cOlIfcrw4G6-DVTOhK-20" parent="c2cOlIfcrw4G6-DVTOhK-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;" value="" vertex="1">
           <mxGeometry height="40" width="599" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-21" parent="c2cOlIfcrw4G6-DVTOhK-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;" value="Time-bound(期限がある)" vertex="1">
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-21" parent="c2cOlIfcrw4G6-DVTOhK-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" value="Time-bound(期限がある)" vertex="1">
           <mxGeometry height="40" width="190" as="geometry">
             <mxRectangle height="40" width="190" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-22" parent="c2cOlIfcrw4G6-DVTOhK-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;" value="　3ケ月以内の実装・効果の確認" vertex="1">
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-22" parent="c2cOlIfcrw4G6-DVTOhK-20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" value="　3ケ月以内の実装・効果の確認" vertex="1">
           <mxGeometry height="40" width="409" x="190" as="geometry">
             <mxRectangle height="40" width="409" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-23" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeWidth=0.5;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;" value="" vertex="1">
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-23" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeWidth=0.5;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;sketch=1;curveFitting=1;jiggle=2;rounded=0;" value="" vertex="1">
           <mxGeometry height="40" width="600" x="120" y="630" as="geometry" />
         </mxCell>
         <mxCell id="c2cOlIfcrw4G6-DVTOhK-24" parent="c2cOlIfcrw4G6-DVTOhK-23" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;" value="" vertex="1">
           <mxGeometry height="40" width="600" as="geometry" />
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-25" parent="c2cOlIfcrw4G6-DVTOhK-24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;" value="目標設定" vertex="1">
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-25" parent="c2cOlIfcrw4G6-DVTOhK-24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;" value="目標設定" vertex="1">
           <mxGeometry height="40" width="130" as="geometry">
             <mxRectangle height="40" width="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-26" parent="c2cOlIfcrw4G6-DVTOhK-24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;" value="　業務改善案の報告をする。" vertex="1">
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-26" parent="c2cOlIfcrw4G6-DVTOhK-24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;" value="　業務改善案の報告をする。" vertex="1">
           <mxGeometry height="40" width="470" x="130" as="geometry">
             <mxRectangle height="40" width="470" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c2cOlIfcrw4G6-DVTOhK-30" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeWidth=0.5;" value="" vertex="1">
-          <mxGeometry height="322" width="400" x="120" y="898" as="geometry" />
+          <mxGeometry height="322" width="450" x="120" y="898" as="geometry" />
         </mxCell>
         <mxCell id="c2cOlIfcrw4G6-DVTOhK-31" parent="c2cOlIfcrw4G6-DVTOhK-30" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="40" width="400" as="geometry" />
+          <mxGeometry height="40" width="450" as="geometry" />
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-32" parent="c2cOlIfcrw4G6-DVTOhK-31" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=13;fontStyle=0" value="What(何を？)" vertex="1">
-          <mxGeometry height="40" width="220" as="geometry">
-            <mxRectangle height="40" width="220" as="alternateBounds" />
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-32" parent="c2cOlIfcrw4G6-DVTOhK-31" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;fontStyle=0" value="What(何を？)" vertex="1">
+          <mxGeometry height="40" width="249" as="geometry">
+            <mxRectangle height="40" width="249" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-33" parent="c2cOlIfcrw4G6-DVTOhK-31" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=13;fontStyle=0" value="この作業でやることは？" vertex="1">
-          <mxGeometry height="40" width="180" x="220" as="geometry">
-            <mxRectangle height="40" width="180" as="alternateBounds" />
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-33" parent="c2cOlIfcrw4G6-DVTOhK-31" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;fontStyle=0" value="この作業でやることは？" vertex="1">
+          <mxGeometry height="40" width="201" x="249" as="geometry">
+            <mxRectangle height="40" width="201" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c2cOlIfcrw4G6-DVTOhK-34" parent="c2cOlIfcrw4G6-DVTOhK-30" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="40" width="400" y="40" as="geometry" />
+          <mxGeometry height="40" width="450" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-35" parent="c2cOlIfcrw4G6-DVTOhK-34" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=13;fontStyle=0" value="When(いつ？)" vertex="1">
-          <mxGeometry height="40" width="220" as="geometry">
-            <mxRectangle height="40" width="220" as="alternateBounds" />
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-35" parent="c2cOlIfcrw4G6-DVTOhK-34" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;fontStyle=0" value="When(いつ？)" vertex="1">
+          <mxGeometry height="40" width="249" as="geometry">
+            <mxRectangle height="40" width="249" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-36" parent="c2cOlIfcrw4G6-DVTOhK-34" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=13;fontStyle=0" value="期限は？" vertex="1">
-          <mxGeometry height="40" width="180" x="220" as="geometry">
-            <mxRectangle height="40" width="180" as="alternateBounds" />
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-36" parent="c2cOlIfcrw4G6-DVTOhK-34" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;fontStyle=0" value="期限は？" vertex="1">
+          <mxGeometry height="40" width="201" x="249" as="geometry">
+            <mxRectangle height="40" width="201" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c2cOlIfcrw4G6-DVTOhK-37" parent="c2cOlIfcrw4G6-DVTOhK-30" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="42" width="400" y="80" as="geometry" />
+          <mxGeometry height="42" width="450" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-38" parent="c2cOlIfcrw4G6-DVTOhK-37" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=13;fontStyle=0" value="Who(誰が？)" vertex="1">
-          <mxGeometry height="42" width="220" as="geometry">
-            <mxRectangle height="42" width="220" as="alternateBounds" />
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-38" parent="c2cOlIfcrw4G6-DVTOhK-37" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;fontStyle=0" value="Who(誰が？)" vertex="1">
+          <mxGeometry height="42" width="249" as="geometry">
+            <mxRectangle height="42" width="249" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-39" parent="c2cOlIfcrw4G6-DVTOhK-37" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=13;fontStyle=0" value="誰が作業する？" vertex="1">
-          <mxGeometry height="42" width="180" x="220" as="geometry">
-            <mxRectangle height="42" width="180" as="alternateBounds" />
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-39" parent="c2cOlIfcrw4G6-DVTOhK-37" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;fontStyle=0" value="誰が作業する？" vertex="1">
+          <mxGeometry height="42" width="201" x="249" as="geometry">
+            <mxRectangle height="42" width="201" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c2cOlIfcrw4G6-DVTOhK-40" parent="c2cOlIfcrw4G6-DVTOhK-30" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="40" width="400" y="122" as="geometry" />
+          <mxGeometry height="40" width="450" y="122" as="geometry" />
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-41" parent="c2cOlIfcrw4G6-DVTOhK-40" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=13;fontStyle=0" value="Whom(誰を/に？)" vertex="1">
-          <mxGeometry height="40" width="220" as="geometry">
-            <mxRectangle height="40" width="220" as="alternateBounds" />
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-41" parent="c2cOlIfcrw4G6-DVTOhK-40" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;fontStyle=0" value="Whom(誰を/に？)" vertex="1">
+          <mxGeometry height="40" width="249" as="geometry">
+            <mxRectangle height="40" width="249" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-42" parent="c2cOlIfcrw4G6-DVTOhK-40" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=13;fontStyle=0" value="誰に確認する？" vertex="1">
-          <mxGeometry height="40" width="180" x="220" as="geometry">
-            <mxRectangle height="40" width="180" as="alternateBounds" />
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-42" parent="c2cOlIfcrw4G6-DVTOhK-40" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;fontStyle=0" value="誰に確認する？" vertex="1">
+          <mxGeometry height="40" width="201" x="249" as="geometry">
+            <mxRectangle height="40" width="201" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c2cOlIfcrw4G6-DVTOhK-43" parent="c2cOlIfcrw4G6-DVTOhK-30" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="40" width="400" y="162" as="geometry" />
+          <mxGeometry height="40" width="450" y="162" as="geometry" />
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-44" parent="c2cOlIfcrw4G6-DVTOhK-43" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=13;fontStyle=0" value="Where(何処で？)" vertex="1">
-          <mxGeometry height="40" width="220" as="geometry">
-            <mxRectangle height="40" width="220" as="alternateBounds" />
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-44" parent="c2cOlIfcrw4G6-DVTOhK-43" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;fontStyle=0" value="Where(何処で？)" vertex="1">
+          <mxGeometry height="40" width="249" as="geometry">
+            <mxRectangle height="40" width="249" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-45" parent="c2cOlIfcrw4G6-DVTOhK-43" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=13;fontStyle=0" value="どの環境で？" vertex="1">
-          <mxGeometry height="40" width="180" x="220" as="geometry">
-            <mxRectangle height="40" width="180" as="alternateBounds" />
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-45" parent="c2cOlIfcrw4G6-DVTOhK-43" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;fontStyle=0" value="どの環境で？" vertex="1">
+          <mxGeometry height="40" width="201" x="249" as="geometry">
+            <mxRectangle height="40" width="201" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c2cOlIfcrw4G6-DVTOhK-46" parent="c2cOlIfcrw4G6-DVTOhK-30" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="40" width="400" y="202" as="geometry" />
+          <mxGeometry height="40" width="450" y="202" as="geometry" />
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-47" parent="c2cOlIfcrw4G6-DVTOhK-46" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=13;fontStyle=0" value="Why(何故？)" vertex="1">
-          <mxGeometry height="40" width="220" as="geometry">
-            <mxRectangle height="40" width="220" as="alternateBounds" />
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-47" parent="c2cOlIfcrw4G6-DVTOhK-46" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;fontStyle=0" value="Why(何故？)" vertex="1">
+          <mxGeometry height="40" width="249" as="geometry">
+            <mxRectangle height="40" width="249" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-48" parent="c2cOlIfcrw4G6-DVTOhK-46" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=13;fontStyle=0" value="目的は？" vertex="1">
-          <mxGeometry height="40" width="180" x="220" as="geometry">
-            <mxRectangle height="40" width="180" as="alternateBounds" />
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-48" parent="c2cOlIfcrw4G6-DVTOhK-46" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;fontStyle=0" value="目的は？" vertex="1">
+          <mxGeometry height="40" width="201" x="249" as="geometry">
+            <mxRectangle height="40" width="201" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c2cOlIfcrw4G6-DVTOhK-49" parent="c2cOlIfcrw4G6-DVTOhK-30" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="40" width="400" y="242" as="geometry" />
+          <mxGeometry height="40" width="450" y="242" as="geometry" />
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-50" parent="c2cOlIfcrw4G6-DVTOhK-49" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=13;fontStyle=0" value="How(どうやって？)" vertex="1">
-          <mxGeometry height="40" width="220" as="geometry">
-            <mxRectangle height="40" width="220" as="alternateBounds" />
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-50" parent="c2cOlIfcrw4G6-DVTOhK-49" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;fontStyle=0" value="How(どうやって？)" vertex="1">
+          <mxGeometry height="40" width="249" as="geometry">
+            <mxRectangle height="40" width="249" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-51" parent="c2cOlIfcrw4G6-DVTOhK-49" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=13;fontStyle=0" value="参考資料は？" vertex="1">
-          <mxGeometry height="40" width="180" x="220" as="geometry">
-            <mxRectangle height="40" width="180" as="alternateBounds" />
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-51" parent="c2cOlIfcrw4G6-DVTOhK-49" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;fontStyle=0" value="参考資料は？" vertex="1">
+          <mxGeometry height="40" width="201" x="249" as="geometry">
+            <mxRectangle height="40" width="201" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c2cOlIfcrw4G6-DVTOhK-71" parent="c2cOlIfcrw4G6-DVTOhK-30" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1">
-          <mxGeometry height="40" width="400" y="282" as="geometry" />
+          <mxGeometry height="40" width="450" y="282" as="geometry" />
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-72" parent="c2cOlIfcrw4G6-DVTOhK-71" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=13;fontStyle=0" value="How Much(いくら/どのくらい？)" vertex="1">
-          <mxGeometry height="40" width="220" as="geometry">
-            <mxRectangle height="40" width="220" as="alternateBounds" />
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-72" parent="c2cOlIfcrw4G6-DVTOhK-71" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;fontStyle=0" value="How Much(いくら/どのくらい？)" vertex="1">
+          <mxGeometry height="40" width="249" as="geometry">
+            <mxRectangle height="40" width="249" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c2cOlIfcrw4G6-DVTOhK-73" parent="c2cOlIfcrw4G6-DVTOhK-71" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=13;fontStyle=0" value="何件くらい？" vertex="1">
-          <mxGeometry height="40" width="180" x="220" as="geometry">
-            <mxRectangle height="40" width="180" as="alternateBounds" />
+        <mxCell id="c2cOlIfcrw4G6-DVTOhK-73" parent="c2cOlIfcrw4G6-DVTOhK-71" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=15;fontStyle=0" value="何件くらい？" vertex="1">
+          <mxGeometry height="40" width="201" x="249" as="geometry">
+            <mxRectangle height="40" width="201" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39BnkDx7vHfqNOrTzJIq-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeWidth=0.5;" value="" vertex="1">
+          <mxGeometry height="162" width="400" x="120" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="39BnkDx7vHfqNOrTzJIq-2" parent="39BnkDx7vHfqNOrTzJIq-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="400" as="geometry" />
+        </mxCell>
+        <mxCell id="39BnkDx7vHfqNOrTzJIq-3" parent="39BnkDx7vHfqNOrTzJIq-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;fontStyle=0" value="Point(結論)" vertex="1">
+          <mxGeometry height="40" width="150" as="geometry">
+            <mxRectangle height="40" width="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39BnkDx7vHfqNOrTzJIq-4" parent="39BnkDx7vHfqNOrTzJIq-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;fontStyle=0" value="作業は完了した" vertex="1">
+          <mxGeometry height="40" width="250" x="150" as="geometry">
+            <mxRectangle height="40" width="250" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39BnkDx7vHfqNOrTzJIq-5" parent="39BnkDx7vHfqNOrTzJIq-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="400" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39BnkDx7vHfqNOrTzJIq-6" parent="39BnkDx7vHfqNOrTzJIq-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;fontStyle=0" value="Reason(理由)" vertex="1">
+          <mxGeometry height="40" width="150" as="geometry">
+            <mxRectangle height="40" width="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39BnkDx7vHfqNOrTzJIq-7" parent="39BnkDx7vHfqNOrTzJIq-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;fontStyle=0" value="手順書通りに進めた" vertex="1">
+          <mxGeometry height="40" width="250" x="150" as="geometry">
+            <mxRectangle height="40" width="250" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39BnkDx7vHfqNOrTzJIq-8" parent="39BnkDx7vHfqNOrTzJIq-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="42" width="400" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="39BnkDx7vHfqNOrTzJIq-9" parent="39BnkDx7vHfqNOrTzJIq-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;fontStyle=0" value="Example(具体例)" vertex="1">
+          <mxGeometry height="42" width="150" as="geometry">
+            <mxRectangle height="42" width="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39BnkDx7vHfqNOrTzJIq-10" parent="39BnkDx7vHfqNOrTzJIq-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;fontStyle=0" value="設定値が正しいことを確認した" vertex="1">
+          <mxGeometry height="42" width="250" x="150" as="geometry">
+            <mxRectangle height="42" width="250" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39BnkDx7vHfqNOrTzJIq-11" parent="39BnkDx7vHfqNOrTzJIq-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="40" width="400" y="122" as="geometry" />
+        </mxCell>
+        <mxCell id="39BnkDx7vHfqNOrTzJIq-12" parent="39BnkDx7vHfqNOrTzJIq-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;fontStyle=0" value="Point(結論)" vertex="1">
+          <mxGeometry height="40" width="150" as="geometry">
+            <mxRectangle height="40" width="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39BnkDx7vHfqNOrTzJIq-13" parent="39BnkDx7vHfqNOrTzJIq-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Klee One;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DKlee%2BOne;fontSize=15;fontStyle=0" value="次は本番作業の手順書を作成する" vertex="1">
+          <mxGeometry height="40" width="250" x="150" as="geometry">
+            <mxRectangle height="40" width="250" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
