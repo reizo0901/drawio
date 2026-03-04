@@ -568,10 +568,10 @@
         <mxCell id="f57iILAtVXYoFly4bm2j-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;" value="月あたり約10時間の作業時間削減" vertex="1">
           <mxGeometry height="20" width="190" x="220" y="1213" as="geometry" />
         </mxCell>
-        <mxCell id="f57iILAtVXYoFly4bm2j-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;" value="誰に確認する？" vertex="1">
-          <mxGeometry height="20" width="150" x="219" y="1255" as="geometry" />
+        <mxCell id="f57iILAtVXYoFly4bm2j-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;" value="運用全体の負荷軽減につながる" vertex="1">
+          <mxGeometry height="20" width="181" x="219" y="1255" as="geometry" />
         </mxCell>
-        <mxCell id="f57iILAtVXYoFly4bm2j-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;" value="どの環境で？" vertex="1">
+        <mxCell id="f57iILAtVXYoFly4bm2j-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;" value="3ヶ月以内" vertex="1">
           <mxGeometry height="20" width="150" x="217" y="1273" as="geometry" />
         </mxCell>
         <mxCell id="f57iILAtVXYoFly4bm2j-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;" value="既存の仕組みを利用した自動化で実現性可能" vertex="1">
