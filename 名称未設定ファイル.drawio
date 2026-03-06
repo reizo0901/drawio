@@ -1320,76 +1320,76 @@
           <mxGeometry height="20" width="291.12" x="58.88" y="-2072" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-165" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="日常業務で検索に時間がかかっている" vertex="1">
-          <mxGeometry height="36.5" width="80" x="58.88" y="-2030" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="70.88" y="-2025" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-167" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="業務時間が奪われてイライラしている" vertex="1">
-          <mxGeometry height="36.5" width="80" x="58.88" y="-1965" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="70.88" y="-1962" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-168" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="情報がすぐ見つかり、業務がスムーズ" vertex="1">
-          <mxGeometry height="36.5" width="80" x="58.88" y="-1900" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="70.88" y="-1898" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-169" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="運用担当者が不足している" vertex="1">
-          <mxGeometry height="36.5" width="80" x="148.88" y="-2030" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="160.88" y="-2025" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-170" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="管理負荷と監査が大変" vertex="1">
-          <mxGeometry height="36.5" width="80" x="148.88" y="-1965" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="160.88" y="-1962" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-171" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="ログイン管理が楽になり、問い合わせが減る" vertex="1">
-          <mxGeometry height="36.5" width="80" x="148.88" y="-1900" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="160.88" y="-1898" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-172" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="セキュリティの監査に毎回苦労している" vertex="1">
-          <mxGeometry height="36.5" width="80" x="248.88" y="-2030" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="260.88" y="-2025" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-173" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="業務停止による損失を避けたい" vertex="1">
-          <mxGeometry height="36.5" width="80" x="248.88" y="-1965" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="260.88" y="-1962" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-174" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="障害が減って、現場が安心できる" vertex="1">
-          <mxGeometry height="36.5" width="80" x="248.88" y="-1900" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="260.88" y="-1898" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-175" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="障害が起きると復旧までに数時間かかる" vertex="1">
-          <mxGeometry height="36.5" width="80" x="338.88" y="-2030" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="350.88" y="-2025" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-176" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="人員不足で夜間対応が辛い" vertex="1">
-          <mxGeometry height="36.5" width="80" x="338.88" y="-1965" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="350.88" y="-1962" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-177" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="コストの予測がつくので経営説明しやすい" vertex="1">
-          <mxGeometry height="36.5" width="80" x="338.88" y="-1900" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="350.88" y="-1898" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-178" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="コストが年々増えていて経営層が不満" vertex="1">
-          <mxGeometry height="36.5" width="80" x="428.88" y="-2030" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="440.88" y="-2025" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-179" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="削減しろと上層部から言われている" vertex="1">
-          <mxGeometry height="36.5" width="80" x="428.88" y="-1965" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="440.88" y="-1962" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-180" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="運用負荷が減り、夜間の呼び出しがなくなる" vertex="1">
-          <mxGeometry height="36.5" width="80" x="428.88" y="-1900" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="440.88" y="-1898" as="geometry" />
         </mxCell>
-        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-182" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=11;" value="相手の本音を仮定する" vertex="1">
+        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-182" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=11;" value="相手の状況を仮定する" vertex="1">
           <mxGeometry height="20" width="120" x="60.1" y="-2045" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-183" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=11;" value="相手の本音を仮定する" vertex="1">
-          <mxGeometry height="20" width="120" x="62.88" y="-1985" as="geometry" />
+          <mxGeometry height="20" width="120" x="59" y="-1983" as="geometry" />
         </mxCell>
-        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-184" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=11;" value="そのニーズを満たしたときの“未来の状態”を仮想する（理想像）" vertex="1">
-          <mxGeometry height="20" width="367.12" x="62.88" y="-1920" as="geometry" />
+        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-184" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=11;" value="未来の状態を仮想する" vertex="1">
+          <mxGeometry height="20" width="137.12" x="57.88" y="-1918" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-186" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="SSO+MFA" vertex="1">
-          <mxGeometry height="36.5" width="80" x="160.04" y="-1826.5" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="169.04" y="-1830.5" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-187" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="マルチAZ" vertex="1">
-          <mxGeometry height="36.5" width="80" x="339.88" y="-1826.5" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="348.88" y="-1830.5" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-189" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="オートスケール" vertex="1">
-          <mxGeometry height="36.5" width="80" x="427.12" y="-1826.5" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="436.12" y="-1830.5" as="geometry" />
         </mxCell>
-        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-190" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=11;" value="そのニーズを満たしたときの“未来の状態”を仮想する（理想像）" vertex="1">
-          <mxGeometry height="20" width="357.12" x="62.88" y="-1850" as="geometry" />
+        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-190" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=11;" value="実現するための技術を洗い出す" vertex="1">
+          <mxGeometry height="20" width="357.12" x="57.88" y="-1853" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-191" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="可観測性基盤" vertex="1">
-          <mxGeometry height="36.5" width="80" x="250" y="-1826.5" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="259" y="-1830.5" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-192" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="インデックス最適化" vertex="1">
-          <mxGeometry height="36.5" width="97.5" x="62.38" y="-1826.5" as="geometry" />
+          <mxGeometry height="36.5" width="97.5" x="71.38" y="-1830.5" as="geometry" />
         </mxCell>
         <mxCell id="4VSyAemw4UbXi4zUKnBU-31" parent="0" value="文字上の図" />
         <mxCell id="4VSyAemw4UbXi4zUKnBU-24" parent="4VSyAemw4UbXi4zUKnBU-31" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;sketch=1;curveFitting=1;jiggle=2;opacity=50;" value="" vertex="1">
