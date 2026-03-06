@@ -13,7 +13,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HF0pyY9Dk_Bzqmk1xg4Z" name="0章">
-    <mxGraphModel dx="636" dy="2752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="675" dy="2693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1326,51 +1326,51 @@
           <mxGeometry height="36.5" width="80" x="70.88" y="-1962" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-168" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="情報がすぐ見つかり、業務がスムーズ" vertex="1">
-          <mxGeometry height="36.5" width="80" x="70.88" y="-1898" as="geometry" />
+          <mxGeometry height="47" width="80" x="70" y="-1897" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-169" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="運用担当者が不足している" vertex="1">
-          <mxGeometry height="36.5" width="80" x="160.88" y="-2025" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="163" y="-2023" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-170" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="管理負荷と監査が大変" vertex="1">
-          <mxGeometry height="36.5" width="80" x="160.88" y="-1962" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="160" y="-1960" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-171" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="ログイン管理が楽になり、問い合わせが減る" vertex="1">
-          <mxGeometry height="36.5" width="80" x="160.88" y="-1898" as="geometry" />
+          <mxGeometry height="48" width="80" x="160.88" y="-1896" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-172" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="セキュリティの監査に毎回苦労している" vertex="1">
-          <mxGeometry height="36.5" width="80" x="260.88" y="-2025" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="257" y="-2024" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-173" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="業務停止による損失を避けたい" vertex="1">
-          <mxGeometry height="36.5" width="80" x="260.88" y="-1962" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="258" y="-1962" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-174" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="障害が減って、現場が安心できる" vertex="1">
-          <mxGeometry height="36.5" width="80" x="260.88" y="-1898" as="geometry" />
+          <mxGeometry height="48" width="80" x="260.88" y="-1896" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-175" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="障害が起きると復旧までに数時間かかる" vertex="1">
-          <mxGeometry height="36.5" width="80" x="350.88" y="-2025" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="350" y="-2025" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-176" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="人員不足で夜間対応が辛い" vertex="1">
-          <mxGeometry height="36.5" width="80" x="350.88" y="-1962" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="348" y="-1962" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-177" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="コストの予測がつくので経営説明しやすい" vertex="1">
-          <mxGeometry height="36.5" width="80" x="350.88" y="-1898" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="347" y="-1896" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-178" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="コストが年々増えていて経営層が不満" vertex="1">
-          <mxGeometry height="36.5" width="80" x="440.88" y="-2025" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="438" y="-2027" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-179" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="削減しろと上層部から言われている" vertex="1">
-          <mxGeometry height="36.5" width="80" x="440.88" y="-1962" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="439" y="-1963" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-180" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="運用負荷が減り、夜間の呼び出しがなくなる" vertex="1">
-          <mxGeometry height="36.5" width="80" x="440.88" y="-1898" as="geometry" />
+          <mxGeometry height="36.5" width="80" x="439" y="-1897" as="geometry" />
         </mxCell>
-        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-182" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=11;" value="相手の状況を仮定する" vertex="1">
-          <mxGeometry height="20" width="120" x="60.1" y="-2045" as="geometry" />
+        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-182" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=11;" value="相手の状況を仮定してみる" vertex="1">
+          <mxGeometry height="20" width="159.9" x="60.1" y="-2045" as="geometry" />
         </mxCell>
-        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-183" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=11;" value="相手の本音を仮定する" vertex="1">
-          <mxGeometry height="20" width="120" x="59" y="-1983" as="geometry" />
+        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-183" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=11;" value="相手の本音を仮定してみる" vertex="1">
+          <mxGeometry height="20" width="151" x="59" y="-1983" as="geometry" />
         </mxCell>
-        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-184" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=11;" value="未来の状態を仮想する" vertex="1">
+        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-184" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=11;" value="未来の状態を仮定してみる" vertex="1">
           <mxGeometry height="20" width="137.12" x="57.88" y="-1918" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-186" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="SSO+MFA" vertex="1">
@@ -1389,7 +1389,7 @@
           <mxGeometry height="36.5" width="80" x="259" y="-1830.5" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-192" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="インデックス最適化" vertex="1">
-          <mxGeometry height="36.5" width="97.5" x="71.38" y="-1830.5" as="geometry" />
+          <mxGeometry height="20.5" width="97.5" x="50" y="-1830.5" as="geometry" />
         </mxCell>
         <mxCell id="4VSyAemw4UbXi4zUKnBU-31" parent="0" value="文字上の図" />
         <mxCell id="4VSyAemw4UbXi4zUKnBU-24" parent="4VSyAemw4UbXi4zUKnBU-31" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;sketch=1;curveFitting=1;jiggle=2;opacity=50;" value="" vertex="1">
@@ -1619,6 +1619,84 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="409" y="2070" as="sourcePoint" />
             <mxPoint x="452" y="2070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-194" parent="4VSyAemw4UbXi4zUKnBU-31" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;sketch=1;curveFitting=1;jiggle=2;opacity=50;" value="" vertex="1">
+          <mxGeometry height="14" width="155" x="50" y="-2037" as="geometry" />
+        </mxCell>
+        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-195" parent="4VSyAemw4UbXi4zUKnBU-31" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;sketch=1;curveFitting=1;jiggle=2;opacity=50;" value="" vertex="1">
+          <mxGeometry height="14" width="155" x="51" y="-1976" as="geometry" />
+        </mxCell>
+        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-196" parent="4VSyAemw4UbXi4zUKnBU-31" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;sketch=1;curveFitting=1;jiggle=2;opacity=50;" value="" vertex="1">
+          <mxGeometry height="14" width="155" x="55" y="-1911" as="geometry" />
+        </mxCell>
+        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-197" parent="4VSyAemw4UbXi4zUKnBU-31" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;sketch=1;curveFitting=1;jiggle=2;opacity=50;" value="" vertex="1">
+          <mxGeometry height="14" width="168" x="55" y="-1847" as="geometry" />
+        </mxCell>
+        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-215" edge="1" parent="4VSyAemw4UbXi4zUKnBU-31" style="endArrow=none;dashed=1;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;opacity=50;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="149" y="-1912" as="sourcePoint" />
+            <mxPoint x="150" y="-1961" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-230" edge="1" parent="4VSyAemw4UbXi4zUKnBU-31" style="endArrow=none;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;opacity=50;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="53" y="-2023" as="sourcePoint" />
+            <mxPoint x="522" y="-2024" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-231" edge="1" parent="4VSyAemw4UbXi4zUKnBU-31" style="endArrow=none;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;opacity=50;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="51" y="-1961" as="sourcePoint" />
+            <mxPoint x="520" y="-1962" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-232" edge="1" parent="4VSyAemw4UbXi4zUKnBU-31" style="endArrow=none;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;opacity=50;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="52.5" y="-1896" as="sourcePoint" />
+            <mxPoint x="521.5" y="-1897" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-233" edge="1" parent="4VSyAemw4UbXi4zUKnBU-31" style="endArrow=none;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;opacity=50;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="55" y="-1832" as="sourcePoint" />
+            <mxPoint x="524" y="-1833" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-235" edge="1" parent="4VSyAemw4UbXi4zUKnBU-31" style="endArrow=none;dashed=1;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;opacity=50;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="-1791" as="sourcePoint" />
+            <mxPoint x="250" y="-2024" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-236" edge="1" parent="4VSyAemw4UbXi4zUKnBU-31" style="endArrow=none;dashed=1;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;opacity=50;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340.26" y="-1793" as="sourcePoint" />
+            <mxPoint x="340.26" y="-2026" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-238" edge="1" parent="4VSyAemw4UbXi4zUKnBU-31" style="endArrow=none;dashed=1;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;opacity=50;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="430.75" y="-1790" as="sourcePoint" />
+            <mxPoint x="430.75" y="-2023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-239" edge="1" parent="4VSyAemw4UbXi4zUKnBU-31" style="endArrow=none;dashed=1;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;opacity=50;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="148" y="-1846" as="sourcePoint" />
+            <mxPoint x="149" y="-1895" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-240" edge="1" parent="4VSyAemw4UbXi4zUKnBU-31" style="endArrow=none;dashed=1;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;opacity=50;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="148" y="-1785" as="sourcePoint" />
+            <mxPoint x="149" y="-1834" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-242" edge="1" parent="4VSyAemw4UbXi4zUKnBU-31" style="endArrow=none;dashed=1;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;opacity=50;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="151" y="-1977" as="sourcePoint" />
+            <mxPoint x="150" y="-2023" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
