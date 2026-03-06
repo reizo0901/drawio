@@ -1376,11 +1376,11 @@
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-186" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="SSO+MFA" vertex="1">
           <mxGeometry height="36.5" width="80" x="169.04" y="-1830.5" as="geometry" />
         </mxCell>
-        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-187" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="マルチAZ" vertex="1">
-          <mxGeometry height="36.5" width="80" x="348.88" y="-1830.5" as="geometry" />
+        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-187" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="マルチAZ&lt;div&gt;クラスタリング&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40.5" width="80" x="348.88" y="-1830.5" as="geometry" />
         </mxCell>
-        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-189" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="オートスケール" vertex="1">
-          <mxGeometry height="36.5" width="80" x="436.12" y="-1830.5" as="geometry" />
+        <mxCell id="U-Ryxw_lpr4LAI1zBOQD-189" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=10;" value="自動化&lt;div&gt;オートスケール&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30.5" width="80" x="436.12" y="-1830.5" as="geometry" />
         </mxCell>
         <mxCell id="U-Ryxw_lpr4LAI1zBOQD-190" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=11;" value="実現するための技術を洗い出す" vertex="1">
           <mxGeometry height="20" width="357.12" x="57.88" y="-1853" as="geometry" />
