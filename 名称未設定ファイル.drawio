@@ -1300,12 +1300,6 @@
         <mxCell id="6RJjSeLH5TekpvHChaEi-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=14;fontStyle=1;textOpacity=60;" value="レビュー観点表" vertex="1">
           <mxGeometry height="20" width="121.12" x="1138" y="-1390" as="geometry" />
         </mxCell>
-        <mxCell id="6RJjSeLH5TekpvHChaEi-31" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;opacity=30;fontSize=10;sketch=1;curveFitting=1;jiggle=2;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1140" y="-1030" as="sourcePoint" />
-            <mxPoint x="1590" y="-1030" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6RJjSeLH5TekpvHChaEi-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;" value="レビューでよく突っ込まれる観点を表にしよう" vertex="1">
           <mxGeometry height="20" width="291.12" x="1138" y="-1362" as="geometry" />
         </mxCell>
