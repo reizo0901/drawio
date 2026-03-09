@@ -1292,6 +1292,155 @@
             <mxPoint x="1598" y="-1477" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <UserObject label="&lt;img src=&quot;https://media.istockphoto.com/id/2160346477/photo/old-brown-recycle-cardboard-kraft-paper-texture-background.jpg?s=170667a&amp;amp;w=0&amp;amp;k=20&amp;amp;c=h2TD_cAR4xf3iZDmpaocjWbcBZ7x8I1FLCFhq_oqHCA=&quot;&gt;" link="&lt;img src=&quot;https://media.istockphoto.com/id/2160346477/photo/old-brown-recycle-cardboard-kraft-paper-texture-background.jpg?s=170667a&amp;amp;w=0&amp;amp;k=20&amp;amp;c=h2TD_cAR4xf3iZDmpaocjWbcBZ7x8I1FLCFhq_oqHCA=&quot;&gt;" id="6RJjSeLH5TekpvHChaEi-28">
+          <mxCell parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="330" width="480" x="1120" y="-1410" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontSize=14;fontStyle=1;textOpacity=60;" value="レビュー観点表" vertex="1">
+          <mxGeometry height="20" width="121.12" x="1138" y="-1390" as="geometry" />
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-31" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;opacity=30;fontSize=10;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1140" y="-1030" as="sourcePoint" />
+            <mxPoint x="1590" y="-1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;" value="レビューでよく突っ込まれる観点を表にしよう" vertex="1">
+          <mxGeometry height="20" width="291.12" x="1138" y="-1362" as="geometry" />
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-33" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;fontStyle=2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1141" y="-1328" as="sourcePoint" />
+            <mxPoint x="1142" y="-1114" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-34" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;fontStyle=0" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1288" y="-1326.5" as="sourcePoint" />
+            <mxPoint x="1291" y="-1113" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=13;" value="確認手段" vertex="1">
+          <mxGeometry height="18" width="107.5" x="1386" y="-1324" as="geometry" />
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=12;" value="前提条件" vertex="1">
+          <mxGeometry height="23.5" width="183.38" x="1156" y="-1302" as="geometry" />
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=12;" value="見積もり範囲の明確化" vertex="1">
+          <mxGeometry height="23.5" width="163.38" x="1152" y="-1277.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=12;" value="スコープ漏れ" vertex="1">
+          <mxGeometry height="23.5" width="183.38" x="1152" y="-1254.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=12;" value="必要な作業工程が見積に含まれているか" vertex="1">
+          <mxGeometry height="23.5" width="290" x="1298" y="-1258" as="geometry" />
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=12;" value="見積対象のスコープが明確に定義されているか" vertex="1">
+          <mxGeometry height="23.5" width="288" x="1297" y="-1279" as="geometry" />
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=12;" value="見積の前提条件が明記されているか" vertex="1">
+          <mxGeometry height="23.5" width="309" x="1299" y="-1303.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=12;" value="連携・調整工数" vertex="1">
+          <mxGeometry height="23.5" width="193.38" x="1152" y="-1150.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=12;" value="レビュー工数" vertex="1">
+          <mxGeometry height="23.5" width="223.38" x="1153" y="-1171" as="geometry" />
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=12;" value="テスト・バグ修正工数" vertex="1">
+          <mxGeometry height="23.5" width="137" x="1151" y="-1193" as="geometry" />
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-46" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1135.06" y="-1306" as="sourcePoint" />
+            <mxPoint x="1616" y="-1303" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=13;" value="指摘観点" vertex="1">
+          <mxGeometry height="20" width="87" x="1176" y="-1328" as="geometry" />
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-48" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1135.06" y="-1329" as="sourcePoint" />
+            <mxPoint x="1613" y="-1324" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-49" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1135.06" y="-1119" as="sourcePoint" />
+            <mxPoint x="1617" y="-1122" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-50" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;fontStyle=0" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1609" y="-1327.5" as="sourcePoint" />
+            <mxPoint x="1612" y="-1117" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=12;" value="調査・検証作業工数" vertex="1">
+          <mxGeometry height="23.5" width="183.38" x="1152" y="-1214" as="geometry" />
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=12;" value="見積もり根拠" vertex="1">
+          <mxGeometry height="23.5" width="163.38" x="1152" y="-1234" as="geometry" />
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=12;" value="不具合対応の工数が考慮されているか" vertex="1">
+          <mxGeometry height="23.5" width="290" x="1298" y="-1191.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=12;" value="調査・PoCなどの工数が含まれているか" vertex="1">
+          <mxGeometry height="23.5" width="288" x="1299" y="-1213.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=12;" value="見積の算出根拠が明確か" vertex="1">
+          <mxGeometry height="23.5" width="289" x="1299" y="-1236" as="geometry" />
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=12;" value="設計レビューやコードレビューの工数が含まれているか" vertex="1">
+          <mxGeometry height="23.5" width="308" x="1300" y="-1170" as="geometry" />
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=12;" value="他チーム・外部ベンダーとの調整工数が含まれているか" vertex="1">
+          <mxGeometry height="23.5" width="320" x="1298" y="-1147" as="geometry" />
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-59" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1135.06" y="-1275" as="sourcePoint" />
+            <mxPoint x="1609" y="-1279" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-60" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1139.06" y="-1253" as="sourcePoint" />
+            <mxPoint x="1613" y="-1257" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-61" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1137.06" y="-1230" as="sourcePoint" />
+            <mxPoint x="1611" y="-1234" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-62" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1139.06" y="-1209" as="sourcePoint" />
+            <mxPoint x="1613" y="-1213" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-63" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1139.06" y="-1186" as="sourcePoint" />
+            <mxPoint x="1613" y="-1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-65" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1139.06" y="-1167" as="sourcePoint" />
+            <mxPoint x="1613" y="-1171" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6RJjSeLH5TekpvHChaEi-66" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1138" y="-1145" as="sourcePoint" />
+            <mxPoint x="1615" y="-1144" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4VSyAemw4UbXi4zUKnBU-31" parent="0" value="文字上の図" />
         <mxCell id="4VSyAemw4UbXi4zUKnBU-24" parent="4VSyAemw4UbXi4zUKnBU-31" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;sketch=1;curveFitting=1;jiggle=2;opacity=50;" value="" vertex="1">
           <mxGeometry height="70" width="90" x="65" y="-931" as="geometry" />
