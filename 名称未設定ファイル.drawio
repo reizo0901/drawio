@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.1" pages="4">
   <diagram id="HF0pyY9Dk_Bzqmk1xg4Z" name="0章">
-    <mxGraphModel dx="973" dy="2814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="672" dy="2667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1802,7 +1802,7 @@
         </mxCell>
         <mxCell id="6RJjSeLH5TekpvHChaEi-215" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;fontStyle=2" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1151" y="-585.25" as="sourcePoint" />
+            <mxPoint x="1133" y="-586" as="sourcePoint" />
             <mxPoint x="1620" y="-587" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1864,7 +1864,7 @@
           <mxGeometry height="23.5" width="79" x="1441" y="-413" as="geometry" />
         </mxCell>
         <mxCell id="6RJjSeLH5TekpvHChaEi-235" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=3;textOpacity=60;fontSize=11;textDirection=vertical-rl;" value="支援活動" vertex="1">
-          <mxGeometry height="60" width="19" x="1129" y="-575" as="geometry" />
+          <mxGeometry height="60" width="19" x="1131" y="-575" as="geometry" />
         </mxCell>
         <mxCell id="6RJjSeLH5TekpvHChaEi-236" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=3;textOpacity=60;fontSize=10;" value="運用ルール" vertex="1">
           <mxGeometry height="23.5" width="71" x="1164" y="-588.25" as="geometry" />
@@ -1882,19 +1882,19 @@
           <mxGeometry height="23.5" width="71" x="1164" y="-513.25" as="geometry" />
         </mxCell>
         <mxCell id="6RJjSeLH5TekpvHChaEi-241" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=3;textOpacity=60;fontSize=10;" value="迅速な障害復旧" vertex="1">
-          <mxGeometry height="23.5" width="80" x="1520" y="-540.5" as="geometry" />
+          <mxGeometry height="23.5" width="80" x="1527" y="-541.5" as="geometry" />
         </mxCell>
         <mxCell id="6RJjSeLH5TekpvHChaEi-242" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=3;textOpacity=60;fontSize=10;" value="影響範囲の最小化" vertex="1">
-          <mxGeometry height="23.5" width="90" x="1520" y="-516.5" as="geometry" />
+          <mxGeometry height="23.5" width="90" x="1529" y="-521.5" as="geometry" />
         </mxCell>
         <mxCell id="6RJjSeLH5TekpvHChaEi-243" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=3;textOpacity=60;fontSize=10;" value="再発防止" vertex="1">
-          <mxGeometry height="23.5" width="79" x="1520" y="-496.5" as="geometry" />
+          <mxGeometry height="23.5" width="79" x="1526" y="-501.5" as="geometry" />
         </mxCell>
         <mxCell id="6RJjSeLH5TekpvHChaEi-244" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=3;textOpacity=60;fontSize=10;" value="対応品質の均一化" vertex="1">
-          <mxGeometry height="23.5" width="100" x="1520" y="-476.5" as="geometry" />
+          <mxGeometry height="23.5" width="100" x="1527" y="-481.5" as="geometry" />
         </mxCell>
         <mxCell id="6RJjSeLH5TekpvHChaEi-245" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=3;textOpacity=60;fontSize=10;" value="夜間呼び出し削減" vertex="1">
-          <mxGeometry height="23.5" width="100" x="1520" y="-453" as="geometry" />
+          <mxGeometry height="23.5" width="100" x="1528" y="-460" as="geometry" />
         </mxCell>
         <mxCell id="6RJjSeLH5TekpvHChaEi-246" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=3;textOpacity=60;fontSize=10;" value="：障害レベル定義 / エスカレーションルール /&amp;nbsp; 当番体制" vertex="1">
           <mxGeometry height="23.5" width="265" x="1230" y="-588.25" as="geometry" />
@@ -1914,42 +1914,42 @@
         <mxCell id="6RJjSeLH5TekpvHChaEi-251" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;fontStyle=2" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1151" y="-564" as="sourcePoint" />
-            <mxPoint x="1516" y="-565" as="targetPoint" />
+            <mxPoint x="1508" y="-567" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6RJjSeLH5TekpvHChaEi-252" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;fontStyle=2" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1151" y="-548" as="sourcePoint" />
-            <mxPoint x="1516" y="-549" as="targetPoint" />
+            <mxPoint x="1506" y="-549" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6RJjSeLH5TekpvHChaEi-253" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;fontStyle=2" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1151" y="-529" as="sourcePoint" />
-            <mxPoint x="1516" y="-530" as="targetPoint" />
+            <mxPoint x="1508" y="-531" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6RJjSeLH5TekpvHChaEi-254" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;fontStyle=2" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1151" y="-509" as="sourcePoint" />
-            <mxPoint x="1516" y="-510" as="targetPoint" />
+            <mxPoint x="1508" y="-511" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6RJjSeLH5TekpvHChaEi-255" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;fontStyle=2" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1151" y="-488" as="sourcePoint" />
-            <mxPoint x="1516" y="-489" as="targetPoint" />
+            <mxPoint x="1132" y="-487" as="sourcePoint" />
+            <mxPoint x="1508" y="-490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6RJjSeLH5TekpvHChaEi-256" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;fontStyle=2" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1513" y="-586" as="sourcePoint" />
-            <mxPoint x="1513" y="-388" as="targetPoint" />
+            <mxPoint x="1502" y="-587" as="sourcePoint" />
+            <mxPoint x="1507" y="-388" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6RJjSeLH5TekpvHChaEi-257" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;fontStyle=2" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1148" y="-388" as="sourcePoint" />
+            <mxPoint x="1130" y="-387" as="sourcePoint" />
             <mxPoint x="1619" y="-389" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1990,10 +1990,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6RJjSeLH5TekpvHChaEi-264" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=3;textOpacity=60;fontSize=11;textDirection=vertical-rl;" value="主活動" vertex="1">
-          <mxGeometry height="60" width="19" x="1129" y="-466.5" as="geometry" />
+          <mxGeometry height="60" width="19" x="1131" y="-466.5" as="geometry" />
         </mxCell>
-        <mxCell id="6RJjSeLH5TekpvHChaEi-265" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=3;textOpacity=60;fontSize=10;" value="結果" vertex="1">
-          <mxGeometry height="23.5" width="26.62" x="1548.5700000000002" y="-586.5" as="geometry" />
+        <mxCell id="6RJjSeLH5TekpvHChaEi-265" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=3;textOpacity=60;fontSize=10;textDirection=vertical-rl;" value="結果" vertex="1">
+          <mxGeometry height="36.5" width="21.43" x="1507" y="-506" as="geometry" />
         </mxCell>
         <mxCell id="imGz62JWbDWYgEBAkODY-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;sketch=1;curveFitting=1;jiggle=2;opacity=40;strokeWidth=1;" value="" vertex="1">
           <mxGeometry height="20" width="70" x="1158.5" y="-586.5" as="geometry" />
@@ -2025,13 +2025,22 @@
         <mxCell id="imGz62JWbDWYgEBAkODY-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;sketch=1;curveFitting=1;jiggle=2;opacity=40;strokeWidth=1;" value="" vertex="1">
           <mxGeometry height="23.5" width="77" x="1433" y="-480" as="geometry" />
         </mxCell>
-        <mxCell id="imGz62JWbDWYgEBAkODY-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;sketch=1;curveFitting=1;jiggle=2;opacity=40;strokeWidth=1;" value="" vertex="1">
-          <mxGeometry height="23.5" width="77" x="1525" y="-584" as="geometry" />
-        </mxCell>
         <mxCell id="imGz62JWbDWYgEBAkODY-18" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;fontStyle=2" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1243" y="-689.25" as="sourcePoint" />
             <mxPoint x="1712" y="-691" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="imGz62JWbDWYgEBAkODY-23" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;fontStyle=2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1135" y="-588.25" as="sourcePoint" />
+            <mxPoint x="1132" y="-387.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="imGz62JWbDWYgEBAkODY-24" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;fontStyle=2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1525" y="-586" as="sourcePoint" />
+            <mxPoint x="1525" y="-388" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4VSyAemw4UbXi4zUKnBU-31" parent="0" value="文字上の図" />
