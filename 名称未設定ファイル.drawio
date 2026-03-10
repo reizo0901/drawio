@@ -1433,7 +1433,7 @@
         <mxCell id="6RJjSeLH5TekpvHChaEi-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;" value="レビューでよく突っ込まれる観点を表にしよう" vertex="1">
           <mxGeometry height="20" width="291.12" x="1138" y="-992" as="geometry" />
         </mxCell>
-        <mxCell id="6RJjSeLH5TekpvHChaEi-70" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;fontStyle=2" value="">
+        <mxCell id="6RJjSeLH5TekpvHChaEi-70" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=50;fontStyle=2" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1140" y="-967" as="sourcePoint" />
             <mxPoint x="1141" y="-710" as="targetPoint" />
@@ -1442,7 +1442,7 @@
         <mxCell id="6RJjSeLH5TekpvHChaEi-71" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;fontStyle=0;fontSize=11;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1359" y="-965.5" as="sourcePoint" />
-            <mxPoint x="1362" y="-826" as="targetPoint" />
+            <mxPoint x="1357" y="-836" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6RJjSeLH5TekpvHChaEi-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=11;" value="To-Be(理想)" vertex="1">
@@ -1457,7 +1457,7 @@
         <mxCell id="6RJjSeLH5TekpvHChaEi-75" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=3;textOpacity=60;fontSize=11;" value="判断基準は経験頼み" vertex="1">
           <mxGeometry height="23.5" width="183.38" x="1151" y="-900.5" as="geometry" />
         </mxCell>
-        <mxCell id="6RJjSeLH5TekpvHChaEi-82" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;fontStyle=2" value="">
+        <mxCell id="6RJjSeLH5TekpvHChaEi-82" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=50;fontStyle=2" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1134.06" y="-945" as="sourcePoint" />
             <mxPoint x="1615" y="-942" as="targetPoint" />
@@ -1466,7 +1466,7 @@
         <mxCell id="6RJjSeLH5TekpvHChaEi-83" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=1;textOpacity=60;fontSize=11;" value="As-Is(現状)" vertex="1">
           <mxGeometry height="20" width="87" x="1201" y="-967" as="geometry" />
         </mxCell>
-        <mxCell id="6RJjSeLH5TekpvHChaEi-84" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;" value="">
+        <mxCell id="6RJjSeLH5TekpvHChaEi-84" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=50;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1134.06" y="-968" as="sourcePoint" />
             <mxPoint x="1612" y="-963" as="targetPoint" />
@@ -1478,7 +1478,7 @@
             <mxPoint x="1616" y="-778" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6RJjSeLH5TekpvHChaEi-86" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;fontStyle=0" value="">
+        <mxCell id="6RJjSeLH5TekpvHChaEi-86" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=50;fontStyle=0" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1608" y="-966.5" as="sourcePoint" />
             <mxPoint x="1611" y="-710" as="targetPoint" />
@@ -1514,13 +1514,13 @@
             <mxPoint x="1612" y="-861" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6RJjSeLH5TekpvHChaEi-98" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;fontStyle=2" value="">
+        <mxCell id="6RJjSeLH5TekpvHChaEi-98" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=50;fontStyle=2" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1138.06" y="-834" as="sourcePoint" />
             <mxPoint x="1612" y="-838" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6RJjSeLH5TekpvHChaEi-99" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;fontStyle=2" value="">
+        <mxCell id="6RJjSeLH5TekpvHChaEi-99" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=50;fontStyle=2" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1138.06" y="-817" as="sourcePoint" />
             <mxPoint x="1612" y="-821" as="targetPoint" />
@@ -1577,7 +1577,7 @@
         <mxCell id="6RJjSeLH5TekpvHChaEi-114" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;fontStyle=3;textOpacity=60;fontSize=11;" value="役割分担の明文化" vertex="1">
           <mxGeometry height="23.5" width="163.38" x="1151" y="-755" as="geometry" />
         </mxCell>
-        <mxCell id="6RJjSeLH5TekpvHChaEi-115" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=30;fontStyle=2" value="">
+        <mxCell id="6RJjSeLH5TekpvHChaEi-115" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Zen Kurenaido;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKurenaido;sketch=1;curveFitting=1;jiggle=2;opacity=50;fontStyle=2" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1134.06" y="-710" as="sourcePoint" />
             <mxPoint x="1616" y="-713" as="targetPoint" />
